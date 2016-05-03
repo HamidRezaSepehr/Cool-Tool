@@ -27,10 +27,14 @@ List of content
 <br/>[Little Visuals] (http://littlevisuals.co)  7 hi-res images zipped up in your inbox. Use them anyway you want.
 <br/>[Life of Pix] (http://www.lifeofpix.com)  Free stock photos, high-resolution, for personal and commercial uses.
 <br/>[Death to Stock Photos] (http://deathtothestockphoto.com)  A photo & inspiration haven for creatives crushing their path.
-<br/>[Superfamous Studios™] (http://superfamous.com)  A photo & inspiration haven for creatives crushing their path.
+<br/>[Superfamous Studios™] (http://superfamous.com)  A Los Angeles-based studio of Dutch interaction designer Folkert Gorter. You can use the work for your own purposes — including commercial use — as long as credit is provided.
 <br/>[IM Free] (http://www.imcreator.com/free)  Free, only high quality, resources for website building & other design projects.
 <br/>[New Old Stock] (http://nos.twnsnd.co)  Vintage photos from the public archives. Free of known copyright restrictions.
 <br/>[Getrefe] (http://getrefe.tumblr.com)  Refe is a marketplace of royalty-free, high-quality, natural looking photos of people interacting with technology.
+<br/>[Freestocks.org] (http://freestocks.org)  Free stock photos for both personal and commercial use.
+<br/>[Snapwire Snaps] (http://snapwiresnaps.tumblr.com)  License and commission photos from 200,000 of the world's most talented photographers.
+<br/>[Jay Mantri] (http://jaymantri.com)  free pics. do anything (CC0).
+<br/>[Tookapic Stock] (https://stock.tookapic.com)  New quality in stock photography. License royalty-free, authentic lifestyle photos for your brand, social media and online marketing.
 
 ## Web
 
