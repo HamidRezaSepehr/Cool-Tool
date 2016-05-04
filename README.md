@@ -11,7 +11,7 @@ List of content
 
 ## Design
 ### Stock Photo:
-<br/>[Pexels] (https://www.pexels.com) Free stock photos you can use everywhere.
+[Pexels] (https://www.pexels.com) Free stock photos you can use everywhere.
 <br/>[Unsplash] (https://unsplash.com) Do-whatever-you-want high-resolution photos.
 <br/>[Stokpic] (stokpic.com) Free Stock Photos For commercial Use.
 <br/>[StockSnap] (https://stocksnap.io) The #1 source for beautiful free stock photos.
@@ -44,6 +44,7 @@ List of content
 <br/>[Snapwire Snaps] (http://snapwiresnaps.tumblr.com)  License and commission photos from 200,000 of the world's most talented photographers.
 <br/>[Jay Mantri] (http://jaymantri.com)  free pics. do anything (CC0).
 <br/>[MMT] (http://mmtstock.com)  Free for commercial use photos by Jeffrey Betts. CC0 license.
+<br/>[BucketListly Photos] (http://photos.bucketlistly.com)  A free creative common collection of over 2800+ travel photos.
 <br/>[DesignersPics] (http://www.designerspics.com)  Free photographs for your personal and commercial use.
 <br/>[Tookapic Stock] (https://stock.tookapic.com)  New quality in stock photography. License royalty-free, authentic lifestyle photos for your brand, social media and online marketing.
 <br/>[Startup Stock Photos] (http://startupstockphotos.com)  Take 'em, these things are free. Go. Make something.
@@ -55,6 +56,7 @@ List of content
 <br/>[Lock & Stock Photos] (http://lockandstockphotos.com)   Free stock photos for you.
 <br/>[Function] (http://wefunction.com/category/free-photos)   Free Photos.
 <br/>[Paul Jarvis] (https://pjrvs.com/a/photos)   Free High-Resolution Photos.
+<br/>[Raumrot] (http://raumrot.com)   Stunning lifestyle imagery for modern creatives. FREE for commercial use.
 
 ## Web
 
