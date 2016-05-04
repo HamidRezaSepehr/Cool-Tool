@@ -18,6 +18,7 @@ List of content
 <br/>[Pixabay] (https://pixabay.com) Free images and videos you can use anywhere.
 <br/>[StockUp] (http://www.sitebuilderreport.com/stock-up) Stock Up aggregates free stock photos across dozens of free stock photo sources.
 <br/>[Picjumbo] (https://picjumbo.com)  Totally free photos & stock images.
+<br/>[Kaboompics] (http://kaboompics.com)  Breathtaking Free Stock Images for Business or Personal Projects.
 <br/>[All The Free Stock] (http://allthefreestock.com)  a curated list of free stock images, audio and videos.
 <br/>[SplitShire] (http://www.splitshire.com)  Royalty free stock photos and images you can use for you commercial projects.
 <br/>[Splashbase] (http://www.splashbase.co)  Search & discovery platform for free, do what you want, hi resolution photos & videos.
@@ -31,21 +32,29 @@ List of content
 <br/>[Little Visuals] (http://littlevisuals.co)  7 hi-res images zipped up in your inbox. Use them anyway you want.
 <br/>[Life of Pix] (http://www.lifeofpix.com)  Free stock photos, high-resolution, for personal and commercial uses.
 <br/>[Moveast] (http://moveast.me)  Help yourselves and use them wherever you want (CC0).
+<br/>[ISO Republic] (http://isorepublic.com)   Free and premium stock photos.
 <br/>[Death to Stock Photos] (http://deathtothestockphoto.com)  A photo & inspiration haven for creatives crushing their path.
 <br/>[Superfamous Studios™] (http://superfamous.com)  A Los Angeles-based studio of Dutch interaction designer Folkert Gorter. You can use the work for your own purposes — including commercial use — as long as credit is provided.
 <br/>[IM Free] (http://www.imcreator.com/free)  Free, only high quality, resources for website building & other design projects.
 <br/>[Cupcake] (http://cupcake.nilssonlee.se)  Free (do what ever you want) photos.
+<br/>[Public Domain Archive] (http://publicdomainarchive.com)  100% free Public Domain Images New free stock photos added weekly No attribution required.
 <br/>[New Old Stock] (http://nos.twnsnd.co)  Vintage photos from the public archives. Free of known copyright restrictions.
 <br/>[Getrefe] (http://getrefe.tumblr.com)  Refe is a marketplace of royalty-free, high-quality, natural looking photos of people interacting with technology.
 <br/>[Freestocks.org] (http://freestocks.org)  Free stock photos for both personal and commercial use.
 <br/>[Snapwire Snaps] (http://snapwiresnaps.tumblr.com)  License and commission photos from 200,000 of the world's most talented photographers.
 <br/>[Jay Mantri] (http://jaymantri.com)  free pics. do anything (CC0).
+<br/>[MMT] (http://mmtstock.com)  Free for commercial use photos by Jeffrey Betts. CC0 license.
 <br/>[DesignersPics] (http://www.designerspics.com)  Free photographs for your personal and commercial use.
 <br/>[Tookapic Stock] (https://stock.tookapic.com)  New quality in stock photography. License royalty-free, authentic lifestyle photos for your brand, social media and online marketing.
 <br/>[Startup Stock Photos] (http://startupstockphotos.com)  Take 'em, these things are free. Go. Make something.
 <br/>[Jeshoots] (http://jeshoots.com)  Cool & free photos for You!
+<br/>[The Pattern Library] (http://thepatternlibrary.com)  Patterns for the people, by the people.
 <br/>[Magdeleine] (http://magdeleine.co)  A blog that features the best free high-quality stock photographies for your inspiration.
 <br/>[FoodiesFeed] (https://foodiesfeed.com)   Free food pictures in high resolution.
+<br/>[Stokpic] (http://stokpic.com)   Free Stock Photos For commercial Use.
+<br/>[Lock & Stock Photos] (http://lockandstockphotos.com)   Free stock photos for you.
+<br/>[Function] (http://wefunction.com/category/free-photos)   Free Photos.
+<br/>[Paul Jarvis] (https://pjrvs.com/a/photos)   Free High-Resolution Photos.
 
 ## Web
 
