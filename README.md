@@ -57,7 +57,8 @@ List of content
 <br/>[Function] (http://wefunction.com/category/free-photos)   Free Photos.
 <br/>[Paul Jarvis] (https://pjrvs.com/a/photos)   Free High-Resolution Photos.
 <br/>[Raumrot] (http://raumrot.com)   Stunning lifestyle imagery for modern creatives. FREE for commercial use.
-<br/>[Free Digital Photos] (http://www.freedigitalphotos.net)   Royalty free images - high quality stock photos and illustrations
+<br/>[Free Digital Photos] (http://www.freedigitalphotos.net)   Royalty free images - high quality stock photos and illustrations.
+<br/>[Morguefile] (https://www.morguefile.com)   Contains high-resolution stock photography images free for either corporate or private use.
 
 ## Web
 
