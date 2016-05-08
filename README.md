@@ -49,6 +49,7 @@ List of content
 <br/>[Tookapic Stock] (https://stock.tookapic.com)  New quality in stock photography. License royalty-free, authentic lifestyle photos for your brand, social media and online marketing.
 <br/>[Startup Stock Photos] (http://startupstockphotos.com)  Take 'em, these things are free. Go. Make something.
 <br/>[Jeshoots] (http://jeshoots.com)  Cool & free photos for You!
+<br/>[Public Domain Pictures] (http://www.publicdomainpictures.net)  Home for Public Domain Pictures. Free for private and commercial use.
 <br/>[The Pattern Library] (http://thepatternlibrary.com)  Patterns for the people, by the people.
 <br/>[Magdeleine] (http://magdeleine.co)  A blog that features the best free high-quality stock photographies for your inspiration.
 <br/>[FoodiesFeed] (https://foodiesfeed.com)   Free food pictures in high resolution.
@@ -56,7 +57,11 @@ List of content
 <br/>[Lock & Stock Photos] (http://lockandstockphotos.com)   Free stock photos for you.
 <br/>[Function] (http://wefunction.com/category/free-photos)   Free Photos.
 <br/>[Paul Jarvis] (https://pjrvs.com/a/photos)   Free High-Resolution Photos.
+<br/>[Stockvault] (http://www.stockvault.net)   Free Stock Photos and Free Images for personal, educational and non-commercial usage.
 <br/>[Raumrot] (http://raumrot.com)   Stunning lifestyle imagery for modern creatives. FREE for commercial use.
+<br/>[Imagefree] (http://www.imagefree.com)   FREE stock photo gallery.
+<br/>[Rgbstock] (http://www.rgbstock.com)   Free Stock Photo Site with more than 100000 totally free stock photos online.
+<br/>[Dreamstime] (http://www.dreamstime.com/free-images_pg1)   World's largest collection of free & royalty-free stock photos.
 <br/>[Free Digital Photos] (http://www.freedigitalphotos.net)   Royalty free images - high quality stock photos and illustrations.
 <br/>[Morguefile] (https://www.morguefile.com)   Contains high-resolution stock photography images free for either corporate or private use.
 
