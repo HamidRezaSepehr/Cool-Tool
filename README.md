@@ -8,6 +8,7 @@ List of content
 - Business
 - Productivity
 - Marketing
+- Browser Extensions
 
 ## Design
 ### Stock Photo:
