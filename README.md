@@ -83,6 +83,8 @@ List of content
 <br/>[Udacity ] (https://www.udacity.com)  An online university, "by Silicon Valley".
 <br/>[Coursera ] (https://www.coursera.org)  Take free online classes from 120+ top universities and educational organizations.
 <br/>[Khan Academy ] (https://www.khanacademy.org)  Learn for free about math, art, computer programming, economics, physics, chemistry, biology, medicine, finance, history, and more.
+<br/>[Skillshare] (https://www.skillshare.com)  Skillshare is a learning community for creators.
+<br/>[Codecademy] (https://www.codecademy.com)  Interactive courses on how to program.
 
 ## Browser Extensions
 
