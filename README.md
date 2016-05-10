@@ -9,6 +9,8 @@ List of content
 - Productivity
 - Marketing
 - Browser Extensions
+- Desktop
+- Mobile
 
 ## Design
 ### Stock Photo:
@@ -74,5 +76,11 @@ List of content
 ## Productivity
 
 ## Marketing
+
+## Browser Extensions
+
+## Desktop Applications
+
+## Mobile Applications
 
 
