@@ -65,6 +65,7 @@ List of content
 <br/>[Dreamstime] (http://www.dreamstime.com/free-images_pg1)   World's largest collection of free & royalty-free stock photos.
 <br/>[Free Digital Photos] (http://www.freedigitalphotos.net)   Royalty free images - high quality stock photos and illustrations.
 <br/>[Morguefile] (https://www.morguefile.com)   Contains high-resolution stock photography images free for either corporate or private use.
+<br/>[Free Range Stock] (https://freerangestock.com)   Free stock photography.
 
 ## Web
 
