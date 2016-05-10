@@ -80,6 +80,9 @@ List of content
 
 ## Learning
 [Udemy] (https://www.udemy.com)  An online education marketplace with limitless variety.
+<br/>[Udacity ] (https://www.udacity.com)  An online university, "by Silicon Valley".
+<br/>[Coursera ] (https://www.coursera.org)  Take free online classes from 120+ top universities and educational organizations.
+<br/>[Khan Academy ] (https://www.khanacademy.org)  Learn for free about math, art, computer programming, economics, physics, chemistry, biology, medicine, finance, history, and more.
 
 ## Browser Extensions
 
