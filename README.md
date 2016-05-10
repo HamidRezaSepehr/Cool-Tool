@@ -8,6 +8,7 @@ List of content
 - Business
 - Productivity
 - Marketing
+- Learning
 - Browser Extensions
 - Desktop
 - Mobile
@@ -76,6 +77,8 @@ List of content
 ## Productivity
 
 ## Marketing
+
+## Learning
 
 ## Browser Extensions
 
