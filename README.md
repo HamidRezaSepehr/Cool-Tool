@@ -8,6 +8,7 @@ List of content
 - Business
 - Productivity
 - Marketing
+- Entrepreneurship
 - Learning
 - Browser Extensions
 - Desktop
@@ -78,6 +79,9 @@ List of content
 ## Productivity
 
 ## Marketing
+
+## Entrepreneurship
+[Despreneur] (https://despreneur.com)  A magazine about design, technology and entrepreneurship.
 
 ## Learning
 [Udemy] (https://www.udemy.com)  An online education marketplace with limitless variety.
