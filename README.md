@@ -98,6 +98,6 @@ List of content
 ## Mobile Applications
 
 ## Other
-[Save From Net] (http://en.savefrom.net)  Download videos from websites.
+[Save From Net] (http://en.savefrom.net)  Download videos from websites (online video downloader).
 
 
