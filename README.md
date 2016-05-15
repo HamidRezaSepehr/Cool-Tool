@@ -94,6 +94,10 @@ List of content
 <br/>[Khan Academy ] (https://www.khanacademy.org)  Learn for free about math, art, computer programming, economics, physics, chemistry, biology, medicine, finance, history, and more.
 <br/>[Skillshare] (https://www.skillshare.com)  Skillshare is a learning community for creators.
 <br/>[Codecademy] (https://www.codecademy.com)  Interactive courses on how to program.
+<br/>[RubyMonk] (https://rubymonk.com)  Crafted by C42 Engineering. We provide expert Ruby and Rails consulting services.
+<br/>[Nettuts+] (code.tutsplus.com)  Learn how to code with thousands of free tutorials in HTML, Python, Ruby on Rails, programming, Java and more.
+<br/>[Wptuts+] (http://wp.tutsplus.com/)  Browse the latest WordPress Code Tutorials by Envato Tuts+ - all online and free!
+<br/>[Don’t Fear the Internet] (www.dontfeartheinternet.com)  BASIC HTML & CSS for NON-WEB DESIGNERS.
 
 ## Browser Extensions
 
