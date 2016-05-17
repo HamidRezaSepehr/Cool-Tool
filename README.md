@@ -76,6 +76,11 @@ List of content
 ## Web Development
 [Varvy] (https://varvy.com)  Does your site follow the Google webmaster guidelines?
 
+### Themes & templates
+[HTML5 UP] (http://html5up.net)  Responsive HTML5 and CSS3 site templates.
+<br/>[Bootswatch] (http://bootswatch.com)  Free themes for Bootstrap.
+<br/>[TEMPLATED] (http://templated.co)  A collection of Creative Commons-licensed CSS and HTML5 site templates.
+
 ### Analytics
 [Kissmetrics] (https://www.kissmetrics.com)   Analytics Built to Optimize Marketing.
 <br/>[Optimizely] (https://www.optimizely.com)   Optimizely makes it easy to test and personalize your website and mobile app.
