@@ -10,10 +10,12 @@ List of content
 - Marketing
 - Entrepreneurship
 - Learning
+- Writing
 - Browser Extensions
 - Desktop
 - Mobile
 - Other
+- Micsellanous
 - Collaboration
 
 ## Design
@@ -133,14 +135,26 @@ List of content
 <br/>[Wptuts+] (http://wp.tutsplus.com/)  Browse the latest WordPress Code Tutorials by Envato Tuts+ - all online and free!
 <br/>[Don’t Fear the Internet] (www.dontfeartheinternet.com)  BASIC HTML & CSS for NON-WEB DESIGNERS.
 
+## Writing
+[Hemingway Editor] (http://www.hemingwayapp.com)  Hemingway App makes your writing bold and clear. The app highlights long, complex sentences and common errors.
+<br/>[Grammarly] (www.grammarly.com)  Instantly check for 250 types of grammatical, spelling, and punctuation mistakes.
+<br/>[Medium] (https://medium.com)   A place to read, write, and interact with the stories that matter most to you. 
+<br/>[ZenPen] (http://www.zenpen.io)    A minimal text editor, made to stay out of the way while you get the words down. 
+<br/>[Liberio] (http://liber.io)    Create and publish eBooks for free. Really simple. Right from Dropbox, Google Drive, OneDrive, GitHub or your computer. 
+<br/>[Story Wars] (https://www.storywars.net)    Story Wars is collaborative and competitive storytelling website. Take turns writing the story. Vote on which chapter should be included.
+<br/>[Headline Analyzer] (http://www.aminstitute.com/headline/index.htm)    Empathetic. Spiritual. Words which are especially effective when offering products and services that require reasoning or careful evaluation.
+
 ## Browser Extensions
 
 ## Desktop Applications
 
 ## Mobile Applications
 
-## Other
+## Other 
 [Save From Net] (http://en.savefrom.net)  Download videos from websites (online video downloader).
+
+## Micsellanous
+[Egg Timer] (http://e.ggtimer.com)  A simple countdown timer.
 
 ## Collaboration
 [GoToMeeting] (http://www.gotomeeting.com) GoToMeeting with HD video conferencing is a simple yet powerful way to collaborate in real time.
