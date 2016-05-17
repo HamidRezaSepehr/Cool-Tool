@@ -4,7 +4,7 @@ Great tools create great masterpieces. Our goal is to introduce great tools that
 
 List of content
 - Design
-- Web
+- Web Development
 - Business
 - Productivity
 - Marketing
@@ -73,7 +73,9 @@ List of content
 <br/>[Morguefile] (https://www.morguefile.com)   Contains high-resolution stock photography images free for either corporate or private use.
 <br/>[Free Range Stock] (https://freerangestock.com)   Free stock photography.
 
-## Web
+## Web Development
+[Varvy] (https://varvy.com)  Does your site follow the Google webmaster guidelines?
+
 ### Analytics
 [Kissmetrics] (https://www.kissmetrics.com)   Analytics Built to Optimize Marketing.
 <br/>[Optimizely] (https://www.optimizely.com)   Optimizely makes it easy to test and personalize your website and mobile app.
