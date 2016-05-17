@@ -87,6 +87,23 @@ List of content
 
 ## Business
 
+### Logo Generator
+[Hipster Logo Generator] (https://www.hipsterlogogenerator.com)    It's Hip, It's Current, It's Stylish, It's Hipster.
+<br/>[Squarespace Logo] (https://www.squarespace.com/logo)    Logos made simple.
+
+### Website Builder
+[Strikingly] (https://www.strikingly.com)    Strikingly is the best website builder for anyone to build a gorgeous, mobile-friendly website easily.
+
+### Business Document
+[Invoice to me] (http://invoiceto.me)    Create and send professional looking PDF invoices online. Free and simple online invoice template for your business.
+<br/>[Free Invoice Generator] (https://www.free-invoice-generator.com)    Quickly create beautiful invoices for free!
+<br/>[Free Invoice Generator] (https://invoice-generator.com)    Make beautiful invoices straight from your web browser.
+<br/>[Free Invoice Generator] (https://www.freeinvoicecreator.com)    Create free and fully customizable invoice templates that are easy to create and send online in seconds.
+<br/>[Invoices Generator] (https://create.onlineinvoices.com)    Free Online Invoice Generator.
+<br/>[Invoice Home] (https://invoicehome.com)    Create an Invoice - Email it - Get paid.
+<br/>[BILLIVING] (http://www.billiving.com)    Free professional invoice generator service designed for small businesses and freelancers.
+<br/>[Slimvoice] (https://slimvoice.co)    No need to compose emails and attach invoices manually. Slimvoice will keep the stray files off your desktop by sending PDFs directly to your client.
+
 ## Productivity
 
 ## Marketing
