@@ -88,6 +88,14 @@ List of content
 [Kissmetrics] (https://www.kissmetrics.com)   Analytics Built to Optimize Marketing.
 <br/>[Optimizely] (https://www.optimizely.com)   Optimizely makes it easy to test and personalize your website and mobile app.
 
+### Analyzer & SEO
+[Open Site Explorer] (https://moz.com/researchtools/ose)   Research backlinks, find link-building opportunities and discover potentially damaging links with Open Site Explorer.
+<br/>[Ahrefs] (https://ahrefs.com)   Track your backlinks, keywords, brand mentions and know what your competitors are doing.
+<br/>[SEO Site Checkup] (http://seositecheckup.com)   User-friendly analysis and monitoring of your site's SEO.
+<br/>[Hubspot Marketing Grader] (https://website.grader.com)   HOW STRONG IS YOUR WEBSITE?
+<br/>[SimilarWeb] (https://www.similarweb.com)   Get insights for any website or app.
+<br/>[Alexa Ranking] (http://www.alexa.com)   Make better decisions. Prove your results. Increase your website traffic. Be the hero. Alexa makes it easy.
+
 ## Business
 
 ### Business Name
@@ -121,7 +129,7 @@ List of content
 [Portent] (https://www.portent.com/tools/title-maker)    Content idea generator.
 <br/>[Buzzsumo] (http://buzzsumo.com)    Analyze what content performs best for any topic or competitor.
 <br/>[Hubspot] (http://www.hubspot.com/blog-topic-generator)    BLOG TOPIC GENERATOR.
-<br/>[Hubspot] (http://www.hubspot.com/blog-topic-generator)    BLOG TOPIC GENERATOR.
+<br/>[Quick Sprout] (https://www.quicksprout.com)    Make Better Content.
 
 ## Productivity
 
@@ -166,6 +174,7 @@ List of content
 
 ## Micsellanous
 [Egg Timer] (http://e.ggtimer.com)  A simple countdown timer.
+<br/>[Quora] (https://www.quora.com)  The best answer to any question.
 
 ## Collaboration
 [GoToMeeting] (http://www.gotomeeting.com) GoToMeeting with HD video conferencing is a simple yet powerful way to collaborate in real time.
