@@ -95,6 +95,18 @@ List of content
 <br/>[Hubspot Marketing Grader] (https://website.grader.com)   HOW STRONG IS YOUR WEBSITE?
 <br/>[SimilarWeb] (https://www.similarweb.com)   Get insights for any website or app.
 <br/>[Alexa Ranking] (http://www.alexa.com)   Make better decisions. Prove your results. Increase your website traffic. Be the hero. Alexa makes it easy.
+<br/>[Nibbler] (http://nibbler.silktide.com)   Test any website.
+<br/>[Browseo] (http://www.browseo.net)   View any web page like search engines see it.
+<br/>[Broken Links] (http://www.internetmarketingninjas.com/seo-tools/google-sitemap-generator)   Find Broken Links, Redirects & Site Crawl Tool.
+<br/>[Copyscape] (http://www.copyscape.com)   Copyscape is a free plagiarism checker. The software lets you detect duplicate content and check if your articles are original.
+<br/>[Woorank] (https://www.woorank.com)   From SEO to Digital Marketing, use WooRank to analyze and optimize unlimited websites.
+<br/>[Google Pagespeed Insights] (https://developers.google.com/speed/pagespeed/insights)   Make your web pages fast on all devices.
+<br/>[Pingdom Website Speed Test] (http://tools.pingdom.com/fpt)  Analyze the load speed of your websites, and learn how to make them faster.
+<br/>[GTMetrics] (https://gtmetrix.com)  Analyze your site’s speed and make it faster.
+<br/>[Moz Local] (https://moz.com/local/search)  Check your listings on Google, Bing, and other local search engines.
+<br/>[XML Sitemaps] (https://www.xml-sitemaps.com)  Sitemap generator that creates XML & HTML variants.
+<br/>[W3C validator] (https://validator.w3.org)  Markup Validation Service.
+<br/>[Shopify E-commerce Report] (https://www.shopify.com/tools)  Get your free Ecommerce report.
 
 ## Business
 
