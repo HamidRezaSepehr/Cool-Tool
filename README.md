@@ -117,6 +117,12 @@ List of content
 <br/>[BILLIVING] (http://www.billiving.com)    Free professional invoice generator service designed for small businesses and freelancers.
 <br/>[Slimvoice] (https://slimvoice.co)    No need to compose emails and attach invoices manually. Slimvoice will keep the stray files off your desktop by sending PDFs directly to your client.
 
+### Content
+[Portent] (https://www.portent.com/tools/title-maker)    Content idea generator.
+<br/>[Buzzsumo] (http://buzzsumo.com)    Analyze what content performs best for any topic or competitor.
+<br/>[Hubspot] (http://www.hubspot.com/blog-topic-generator)    BLOG TOPIC GENERATOR.
+<br/>[Hubspot] (http://www.hubspot.com/blog-topic-generator)    BLOG TOPIC GENERATOR.
+
 ## Productivity
 
 ## Marketing
@@ -156,6 +162,7 @@ List of content
 
 ## Other 
 [Save From Net] (http://en.savefrom.net)  Download videos from websites (online video downloader).
+<br/>[Google Trends] (https://www.google.com/trends/hottrends/visualize?pn=p1)  See the latest trends, data and visualizations from Google. Find out what's trending near you right now.
 
 ## Micsellanous
 [Egg Timer] (http://e.ggtimer.com)  A simple countdown timer.
