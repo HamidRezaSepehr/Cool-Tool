@@ -91,6 +91,9 @@ List of content
 <br/>[Easel.ly] (http://www.easel.ly)  Create and share visual ideas.
 <br/>[Social Image Resizer Tool] (http://www.internetmarketingninjas.com/seo-tools/favicon-generator-crop-images)  Create optimized images for social media.
 
+### Mockup
+[Placeit] (https://placeit.net)  Instant iPhone Mockups & Demo Videos.
+
 ## Web Development
 [Varvy] (https://varvy.com)  Does your site follow the Google webmaster guidelines?
 
