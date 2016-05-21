@@ -205,6 +205,8 @@ List of content
 ## Micsellanous
 [Egg Timer] (http://e.ggtimer.com)  A simple countdown timer.
 <br/>[Quora] (https://www.quora.com)  The best answer to any question.
+<br/>[Recite] (http://recite.com)   Create beautiful visual quotes as images.
+<br/>[Meme Generator] (https://memegenerator.net)   Online meme generator.
 
 ## Collaboration
 [GoToMeeting] (http://www.gotomeeting.com) GoToMeeting with HD video conferencing is a simple yet powerful way to collaborate in real time.
