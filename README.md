@@ -76,6 +76,15 @@ List of content
 <br/>[Morguefile] (https://www.morguefile.com)   Contains high-resolution stock photography images free for either corporate or private use.
 <br/>[Free Range Stock] (https://freerangestock.com)   Free stock photography.
 
+### Image Optimizer
+[TinyJPG] (https://tinyjpg.com)  Optimize your images with a perfect balance in quality and file size.
+<br/>[TinyPNG] (https://tinypng.com)  Optimize your images with a perfect balance in quality and file size.
+<br/>[Compressor.io] (https://compressor.io)  Optimize and compress your images online. Compressor is a lossy and lossless photo compression tool.
+<br/>[Kraken] (https://kraken.io)  optimize your images and accelerate your websites.
+<br/>[ImageOptimizer] (http://www.imageoptimizer.net)  Resize, compress and optimize your image files.
+<br/>[ImageOptim] (https://imageoptim.com)  Removes bloated metadata. Saves disk space & bandwidth by compressing images without losing quality.
+
+
 ## Web Development
 [Varvy] (https://varvy.com)  Does your site follow the Google webmaster guidelines?
 
