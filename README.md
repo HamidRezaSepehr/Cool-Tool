@@ -84,6 +84,12 @@ List of content
 <br/>[ImageOptimizer] (http://www.imageoptimizer.net)  Resize, compress and optimize your image files.
 <br/>[ImageOptim] (https://imageoptim.com)  Removes bloated metadata. Saves disk space & bandwidth by compressing images without losing quality.
 
+### Image Editor
+[TinyJPG] (https://tinyjpg.com)  Optimize your images with a perfect balance in quality and file size.
+<br/>[Canva] (https://www.canva.com)  Canva makes design simple for everyone. Create designs for Web or print: blog graphics, presentations, Facebook covers, flyers, posters, invitations and so ...
+<br/>[Pixlr] (https://pixlr.com/editor)  A free online image editor.
+<br/>[Easel.ly] (http://www.easel.ly)  Create and share visual ideas.
+<br/>[Social Image Resizer Tool] (http://www.internetmarketingninjas.com/seo-tools/favicon-generator-crop-images)  Create optimized images for social media.
 
 ## Web Development
 [Varvy] (https://varvy.com)  Does your site follow the Google webmaster guidelines?
