@@ -166,6 +166,12 @@ List of content
 
 ## Marketing
 
+### Email marketing
+[MailChimp] (http://mailchimp.com)    Online email marketing solution to manage subscribers, send emails, and track results. Offers integrations with other programs.
+<br/>[Hello Bar] (https://www.hellobar.com)    Convert more visitors into customers.
+<br/>[SumoMe List Builder] (https://sumome.com/app/list-builder)    Grow Your Email List with List Builder.
+<br/>[SumoMe Scroll Box] (https://sumome.com/app/scroll-box)    Politely Grow Your Email List with Scroll Box.
+
 ## Entrepreneurship
 [Despreneur] (https://despreneur.com)  A magazine about design, technology and entrepreneurship.
 
