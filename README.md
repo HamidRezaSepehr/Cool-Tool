@@ -178,7 +178,8 @@ List of content
 <br/>[Crowdfire] (http://www.crowdfireapp.com)    Looking for a Social media engagement tool to grow? Crowdfire is one of the online marketing tools where you can have social media strategy and marketing ...
 <br/>[Klout] (https://klout.com/home)    Klout helps people who want to be great at social media. Join today to start sharing original content and measuring your online impact.
 <br/>[Ritetag] (https://ritetag.com)    It's harder now to get heard on social. Increase click-throughs and views with a click. Sign in with Twitter · Sign in with Facebook. Start here. This works fast.
-<br/>[Buffer] (https://buffer.com)    A better way to share on social media. Social media management for marketers and agencies
+<br/>[Buffer] (https://buffer.com)    A better way to share on social media. Social media management for marketers and agencies.
+<br/>[Flament] (http://filament.io/flare)    Flare gets you more shares, social stats and more.
 
 ### Twitter
 [WriteRack] (https://writerack.com)    WriteRack is the best way to Tweetstorm. With WriteRack, you can Tweet more than 140 Characters on Twitter.
@@ -234,6 +235,7 @@ List of content
 <br/>[Quora] (https://www.quora.com)  The best answer to any question.
 <br/>[Recite] (http://recite.com)   Create beautiful visual quotes as images.
 <br/>[Meme Generator] (https://memegenerator.net)   Online meme generator.
+<br/>[Bitly] (https://bitly.com)   SHORTEN. SHARE. MEASURE.
 
 ## Collaboration
 [GoToMeeting] (http://www.gotomeeting.com) GoToMeeting with HD video conferencing is a simple yet powerful way to collaborate in real time.
