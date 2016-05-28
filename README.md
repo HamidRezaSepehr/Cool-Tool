@@ -180,6 +180,8 @@ List of content
 <br/>[Ritetag] (https://ritetag.com)    It's harder now to get heard on social. Increase click-throughs and views with a click. Sign in with Twitter · Sign in with Facebook. Start here. This works fast.
 <br/>[Buffer] (https://buffer.com)    A better way to share on social media. Social media management for marketers and agencies.
 <br/>[Flament] (http://filament.io/flare)    Flare gets you more shares, social stats and more.
+<br/>[Addthis] (http://www.addthis.com)   Promote Your Site with the Web's Leading Social Tools.
+<br/>[Sumome Share] (https://sumome.com/app/share)  Get 20% More Traffic with Share.
 
 ### Twitter
 [WriteRack] (https://writerack.com)    WriteRack is the best way to Tweetstorm. With WriteRack, you can Tweet more than 140 Characters on Twitter.
