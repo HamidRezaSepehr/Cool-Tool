@@ -182,6 +182,7 @@ List of content
 <br/>[Flament] (http://filament.io/flare)    Flare gets you more shares, social stats and more.
 <br/>[Addthis] (http://www.addthis.com)   Promote Your Site with the Web's Leading Social Tools.
 <br/>[Sumome Share] (https://sumome.com/app/share)  Get 20% More Traffic with Share.
+<br/>[Disqus] (https://disqus.com)  The #1 way to build your audience.
 
 ### Twitter
 [WriteRack] (https://writerack.com)    WriteRack is the best way to Tweetstorm. With WriteRack, you can Tweet more than 140 Characters on Twitter.
@@ -238,6 +239,8 @@ List of content
 <br/>[Recite] (http://recite.com)   Create beautiful visual quotes as images.
 <br/>[Meme Generator] (https://memegenerator.net)   Online meme generator.
 <br/>[Bitly] (https://bitly.com)   SHORTEN. SHARE. MEASURE.
+<br/>[Typeform] (https://www.typeform.com)   Build beautiful, engaging, and conversational online forms, surveys, quizzes, landing pages, and much more with Typeform.
+<br/>[Tally] (http://tally.tl)   Create polls in no time.
 
 ## Collaboration
 [GoToMeeting] (http://www.gotomeeting.com) GoToMeeting with HD video conferencing is a simple yet powerful way to collaborate in real time.
