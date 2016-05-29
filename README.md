@@ -241,8 +241,10 @@ List of content
 <br/>[Bitly] (https://bitly.com)   SHORTEN. SHARE. MEASURE.
 <br/>[Typeform] (https://www.typeform.com)   Build beautiful, engaging, and conversational online forms, surveys, quizzes, landing pages, and much more with Typeform.
 <br/>[Tally] (http://tally.tl)   Create polls in no time.
+<br/>[Petit Hacks] (http://petithacks.com)   Tricks websites do to get more of your clicks, money, time and attention.
 
 ## Collaboration
 [GoToMeeting] (http://www.gotomeeting.com) GoToMeeting with HD video conferencing is a simple yet powerful way to collaborate in real time.
+[GrowthHackers] (https://growthhackers.com/welcome) Powerful collaboration, ideas and learning resources for marketing and growth teams.
 
 
