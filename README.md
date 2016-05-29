@@ -143,6 +143,7 @@ List of content
 ### Logo Generator
 [Hipster Logo Generator] (https://www.hipsterlogogenerator.com)    It's Hip, It's Current, It's Stylish, It's Hipster.
 <br/>[Squarespace Logo] (https://www.squarespace.com/logo)    Logos made simple.
+<br/>[Graphic Springs] https://www.graphicsprings.com)    Create your own brilliant logo in minutes with the GraphicSprings FREE logo maker.
 
 ### Website Builder
 [Strikingly] (https://www.strikingly.com)    Strikingly is the best website builder for anyone to build a gorgeous, mobile-friendly website easily.
