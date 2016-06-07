@@ -22,6 +22,24 @@ List of content
 - Collaboration
 
 ## Design
+### Design Resources
+[Freebbble] (http://freebbble.com) High-quality design freebies from Dribbble.
+<br/>[Graphic Burger] (http://graphicburger.com) Tasty design resources made with care for each pixel.
+<br/>[Pixel Buddha] (https://pixelbuddha.net) Premium and free resources for professional community.
+<br/>[Premium Pixels] (http://www.premiumpixels.com) Free Stuff for Creative Folk.
+<br/>[Fribbble] (http://fribbble.com) Free PSD downloads and resources by Dribbblers.
+<br/>[Freebiesbug] (http://freebiesbug.com) FREE WEB DESIGN RESOURCES.
+<br/>[365 Psd] (http://365psd.com)  Download a free vector & PSD every day!
+<br/>[Dbf] (http://dbfreebies.co)  Dribbble & Behance best design freebies.
+<br/>[UI Space] (http://uispace.net)  High quality hand-crafted PSDs and AI freebies.
+<br/>[Free Section of Pixeden] (http://www.pixeden.com)  Free & Premium Design & Web Resources.
+<br/>[Free Section of Creative Market] (https://creativemarket.com/free-goods)  Freebies coming out every monday.
+<br/>[Teehan+Lax] (http://www.teehanlax.com/tools/iphone)  DiOS 8 GUI PSD (iPhone 6).
+<br/>[Teehan+Lax] (http://www.teehanlax.com/tools/ipad)  iPad GUI PSD.
+<br/>[Freepik] (http://www.freepik.com)  graphic resources for everyone.
+<br/>[Tech&All] (http://techandall.com)  PSD, Tech News, and other resources for free.
+<br/>[Tethr] (https://www.invisionapp.com/tethr)  The most beautiful IOS design KIT ever.
+
 ### Stock Photo:
 [Pexels] (https://www.pexels.com) Free stock photos you can use everywhere.
 <br/>[Unsplash] (https://unsplash.com) Do-whatever-you-want high-resolution photos.
