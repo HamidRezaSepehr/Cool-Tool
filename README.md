@@ -40,6 +40,22 @@ List of content
 <br/>[Tech&All] (http://techandall.com)  PSD, Tech News, and other resources for free.
 <br/>[Tethr] (https://www.invisionapp.com/tethr)  The most beautiful IOS design KIT ever.
 
+### Color Pickers
+[Material Palette] (http://www.materialpalette.com) Choose your favorite colors and get your Material Design palette generated and downloadable.
+<br/>[New Flat UI Color Picker] (http://www.flatuicolorpicker.com) Flat Color Picker.
+<br/>[Flat UI Colors] (http://flatuicolors.com) Beautiful flat colors.
+<br/>[Coolors] (https://coolors.co) The super fast color schemes generator for cool designers!
+<br/>[Material UI Colors] (https://www.materialui.co/colors) Material ui color palette for Android, Web & iOS.
+<br/>[Colorful Gradients] (http://colorfulgradients.tumblr.com) Gradients automatically created by a computer. 48 times daily. A Will Burn project.
+<br/>[Brand Colors] (http://brandcolors.net) Gradients automatically Colors used by famous brands.
+<br/>[Paletton] (http://paletton.com/#uid=1000u0kllllaFw0g0qFqFg0w0aF) A designer tool for creating color combinations that work together well. 
+<br/>[0 to 255] (http://www.0to255.com) A simple tool that helps web designers find variations of any color. 
+<br/>[Colour Lovers] (http://www.colourlovers.com) Share Your Color Ideas & Inspiration.
+<br/>[Adobe Color CC] (https://color.adobe.com/create/color-wheel) Create color schemes with the color wheel or browse thousands of color combinations from the Kuler community.
+<br/>[Bootflat] (http://bootflat.github.io/color-picker.html) Flat Color Picker.
+<br/>[Hex Colorrrs] (http://hex.colorrrs.com) Hex to RGB converter.
+<br/>[Get UI Colors (http://getuicolors.com) Get awesome UI colors.
+
 ### Stock Photo:
 [Pexels] (https://www.pexels.com) Free stock photos you can use everywhere.
 <br/>[Unsplash] (https://unsplash.com) Do-whatever-you-want high-resolution photos.
@@ -116,6 +132,9 @@ List of content
 
 ## Web Development
 [Varvy] (https://varvy.com)  Does your site follow the Google webmaster guidelines?
+
+### Plugins
+[Adaptive Backgrounds] (http://briangonzalez.github.io/jquery.adaptive-backgrounds.js) A jQuery plugin for extracting dominant colors from images and applying it to its parent.
 
 ### Themes & templates
 [HTML5 UP] (http://html5up.net)  Responsive HTML5 and CSS3 site templates.
