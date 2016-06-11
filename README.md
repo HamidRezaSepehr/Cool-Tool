@@ -22,6 +22,13 @@ List of content
 - Collaboration
 
 ## Design
+
+### Typography
+[TypeGenius] (http://www.typegenius.com) Find the perfect font combo for your next project.
+<br/>[Font Squirrel] (https://www.fontsquirrel.com) Free Font Utopia, 100% free for commercial use.
+<br/>[Google Fonts] (https://www.google.com/fonts) Free, open-source fonts optimized for the web.
+
+
 ### Design Resources
 [Freebbble] (http://freebbble.com) High-quality design freebies from Dribbble.
 <br/>[Graphic Burger] (http://graphicburger.com) Tasty design resources made with care for each pixel.
