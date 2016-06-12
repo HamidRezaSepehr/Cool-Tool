@@ -26,7 +26,17 @@ List of content
 ### Typography
 [TypeGenius] (http://www.typegenius.com) Find the perfect font combo for your next project.
 <br/>[Font Squirrel] (https://www.fontsquirrel.com) Free Font Utopia, 100% free for commercial use.
+<br/>[DaFont] (http://www.dafont.com) Archive of freely downloadable fonts.
+<br/>[1001 Free Fonts] (http://www.1001freefonts.com) 1001 Free Fonts offers a huge selection of free fonts.
 <br/>[Google Fonts] (https://www.google.com/fonts) Free, open-source fonts optimized for the web.
+<br/>[Beautiful Web Type] (http://hellohappy.org/beautiful-web-type) A showcase of the best typefaces from the Google web fonts directory.
+<br/>[Font-to-width] (http://font-to-width.com) Fit pieces of text snugly within their containers.
+
+### Icon & Font Icon
+<br/>[Fontello] (http://fontello.com) Icon fonts generator.
+<br/>[Flat Icon] (http://www.flaticon.com) The largest database of free icons available in PNG, SVG, EPS, PSD and BASE 64 formats.
+<br/>[Material Design Icons] (https://github.com/google/material-design-icons/releases/tag/1.0.0) 750 Free open-source glyphs by Google.
+<br/>[Font Awesome] (http://fontawesome.io) The iconic font and CSS toolkit.
 
 
 ### Design Resources
