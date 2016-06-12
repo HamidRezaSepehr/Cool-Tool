@@ -287,6 +287,7 @@ List of content
 ## Other 
 [Save From Net] (http://en.savefrom.net)  Download videos from websites (online video downloader).
 <br/>[Google Trends] (https://www.google.com/trends/hottrends/visualize?pn=p1)  See the latest trends, data and visualizations from Google. Find out what's trending near you right now.
+<br/>[change.org] (https://www.change.org)  The world’s platform for change.
 
 ## Micsellanous
 [Egg Timer] (http://e.ggtimer.com)  A simple countdown timer.
