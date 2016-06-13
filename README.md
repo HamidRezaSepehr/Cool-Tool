@@ -304,6 +304,9 @@ List of content
 <br/>[Typeform] (https://www.typeform.com)   Build beautiful, engaging, and conversational online forms, surveys, quizzes, landing pages, and much more with Typeform.
 <br/>[Tally] (http://tally.tl)   Create polls in no time.
 <br/>[Petit Hacks] (http://petithacks.com)   Tricks websites do to get more of your clicks, money, time and attention.
+<br/>[UI Names] (http://uinames.com)   Generate random names for use in designs and mockups.
+<br/>[UI Faces] (http://uifaces.com)   Find and generate sample avatars for user interfaces.
+<br/>[Copy Paste Character] (http://www.copypastecharacter.com/graphic-shapes)   Click to copy.
 
 ## Collaboration
 [GoToMeeting] (http://www.gotomeeting.com) GoToMeeting with HD video conferencing is a simple yet powerful way to collaborate in real time.
