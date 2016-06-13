@@ -37,6 +37,12 @@ List of content
 <br/>[Flat Icon] (http://www.flaticon.com) The largest database of free icons available in PNG, SVG, EPS, PSD and BASE 64 formats.
 <br/>[Material Design Icons] (https://github.com/google/material-design-icons/releases/tag/1.0.0) 750 Free open-source glyphs by Google.
 <br/>[Font Awesome] (http://fontawesome.io) The iconic font and CSS toolkit.
+<br/>[Glyphsearch] (http://glyphsearch.com) Search for icons from other icon databases.
+<br/>[Ico Moon] (https://icomoon.io) 4000+ free vector icons, icon generator.
+<br/>[Perfect Icons] (http://perfecticons.com) The easiest way to create resolution independent social icons.
+<br/>[The Noun Project] (https://thenounproject.com) Thousands of glyph icons from different artists.
+<br/>[Doodle Icon] (https://roundicons.com/doodle-icons-free-set) Free Hand Doodle Icons.
+<br/>[Roundicons] (https://roundicons.com/free-icons) Free flat round icons set.
 
 
 ### Design Resources
