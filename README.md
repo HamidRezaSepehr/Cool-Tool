@@ -286,6 +286,9 @@ List of content
 
 ## Audio
 [Harmony] (http://harmony.jahitjanberk.com)  Listen to natural sounds to sleep and work better.
+<br/>[Noisli] (http://www.noisli.com)  Improve focus and boost your productivity. Mix different sounds and create your perfect environment.
+<br/>[Defonic] (http://defonic.com)  Create unique soundscapes, combine the sounds of the world into a melody.
+<br/>[Designers.mx] (https://designers.mx)  Curated playlists by designers, for designers.
 
 ## Online Payment
 [gumroad] (https://gumroad.com)  An all-in-one solution to sell your work and grow your audience.
