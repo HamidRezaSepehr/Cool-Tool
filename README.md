@@ -230,10 +230,12 @@ List of content
 <br/>[Evernote] (https://evernote.com)  Remember Everything. Modern life can be complicated. Simplify it with Evernote, the app to manage it all.
 <br/>[Dropbox] (https://www.dropbox.com)  Get to all your files from anywhere, on any device, and share them with anyone.
 <br/>[Yanado] (https://yanado.com)  Task & Project Management Tool Inside Gmail.
-<br/>[Wetransfer] (https://www.wetransfer.com)  Remember Everything. Modern life can be complicated. Simplify it with Evernote, the app to manage it all.
-<br/>[Evernote] (https://evernote.com)  Remember Everything. Modern life can be complicated. Simplify it with Evernote, the app to manage it all.
-<br/>[Evernote] (https://evernote.com)  Remember Everything. Modern life can be complicated. Simplify it with Evernote, the app to manage it all.
-<br/>[Evernote] (https://evernote.com)  Remember Everything. Modern life can be complicated. Simplify it with Evernote, the app to manage it all.
+<br/>[Wetransfer] (https://www.wetransfer.com)  A cloud-based file transfer service with up to 2GB Free transfer.
+<br/>[Drp.io] (http://drp.io)  Free, fast, private and easy image and file hosting.
+<br/>[Pocket] (https://getpocket.com)  When you find something you want to view later, put it in Pocket.
+<br/>[List.ly] (http://list.ly)  Discover and create great lists.
+<br/>[Markticle] (https://markticle.com)   Mark your reading progress  in articles, so you could continue reading them later.
+
 
 ## Marketing
 
