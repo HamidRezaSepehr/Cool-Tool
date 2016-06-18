@@ -225,6 +225,15 @@ List of content
 <br/>[Quick Sprout] (https://www.quicksprout.com)    Make Better Content.
 
 ## Productivity
+### ORGANIZE & COLLABORATE
+[Trello] (https://trello.com)  Work with perspective. Trello helps teams of all sizes work collaboratively to get more done.
+<br/>[Evernote] (https://evernote.com)  Remember Everything. Modern life can be complicated. Simplify it with Evernote, the app to manage it all.
+<br/>[Dropbox] (https://www.dropbox.com)  Get to all your files from anywhere, on any device, and share them with anyone.
+<br/>[Yanado] (https://yanado.com)  Task & Project Management Tool Inside Gmail.
+<br/>[Wetransfer] (https://www.wetransfer.com)  Remember Everything. Modern life can be complicated. Simplify it with Evernote, the app to manage it all.
+<br/>[Evernote] (https://evernote.com)  Remember Everything. Modern life can be complicated. Simplify it with Evernote, the app to manage it all.
+<br/>[Evernote] (https://evernote.com)  Remember Everything. Modern life can be complicated. Simplify it with Evernote, the app to manage it all.
+<br/>[Evernote] (https://evernote.com)  Remember Everything. Modern life can be complicated. Simplify it with Evernote, the app to manage it all.
 
 ## Marketing
 
@@ -296,23 +305,4 @@ List of content
 ## Other 
 [Save From Net] (http://en.savefrom.net)  Download videos from websites (online video downloader).
 <br/>[Google Trends] (https://www.google.com/trends/hottrends/visualize?pn=p1)  See the latest trends, data and visualizations from Google. Find out what's trending near you right now.
-<br/>[change.org] (https://www.change.org)  The world’s platform for change.
-
-## Micsellanous
-[Egg Timer] (http://e.ggtimer.com)  A simple countdown timer.
-<br/>[Quora] (https://www.quora.com)  The best answer to any question.
-<br/>[Recite] (http://recite.com)   Create beautiful visual quotes as images.
-<br/>[Meme Generator] (https://memegenerator.net)   Online meme generator.
-<br/>[Bitly] (https://bitly.com)   SHORTEN. SHARE. MEASURE.
-<br/>[Typeform] (https://www.typeform.com)   Build beautiful, engaging, and conversational online forms, surveys, quizzes, landing pages, and much more with Typeform.
-<br/>[Tally] (http://tally.tl)   Create polls in no time.
-<br/>[Petit Hacks] (http://petithacks.com)   Tricks websites do to get more of your clicks, money, time and attention.
-<br/>[UI Names] (http://uinames.com)   Generate random names for use in designs and mockups.
-<br/>[UI Faces] (http://uifaces.com)   Find and generate sample avatars for user interfaces.
-<br/>[Copy Paste Character] (http://www.copypastecharacter.com/graphic-shapes)   Click to copy.
-
-## Collaboration
-[GoToMeeting] (http://www.gotomeeting.com) GoToMeeting with HD video conferencing is a simple yet powerful way to collaborate in real time.
-[GrowthHackers] (https://growthhackers.com/welcome) Powerful collaboration, ideas and learning resources for marketing and growth teams.
-
-
+<br/>[change.org] (https://www.change.org)  The world’s platform for c
