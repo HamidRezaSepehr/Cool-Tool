@@ -235,7 +235,14 @@ List of content
 <br/>[Pocket] (https://getpocket.com)  When you find something you want to view later, put it in Pocket.
 <br/>[List.ly] (http://list.ly)  Discover and create great lists.
 <br/>[Markticle] (https://markticle.com)   Mark your reading progress  in articles, so you could continue reading them later.
+<br/>[Nomadlist] (https://nomadlist.com)   The best cities to live and work remotely for Digital Nomads, based on cost of living, internet speed, weather and other metrics. For startups that work remotely ...
 
+### Discovre tools for entreprenures.
+<br/>[Product Hunt] (https://www.producthunt.com)  A curation of the best new products, every day. Discover the latest mobile apps, websites, and technology products that everyone's talking about.
+<br/>[Angellist] (https://angel.co)  Where the world meets startups.
+<br/>[Beta List] (https://betalist.com)  Discover and get early access to tomorrow’s startups.
+<br/>[Startups List] (http://www.startups-list.com)  Collections of the best startups in different places
+<br/>[Erli Bird] (http://erlibird.com)  Real-World Beta & Usability Testing.
 
 ## Marketing
 
