@@ -152,6 +152,17 @@ List of content
 
 ### Mockup
 [Placeit] (https://placeit.net)  Instant iPhone Mockups & Demo Videos.
+<br/>[Mockup Editor] (https://mockupeditor.com)  Create your own environment to present your designs.
+<br/>[Freebiesbug] (http://freebiesbug.com/psd-freebies/mockups)  Free PSD Mockups. A great place where to find free PSD mockups to better showcase your work.
+<br/>[placeit] (https://placeit.net)  Instant iPhone Mockups & Demo Videos.
+<br/>[Magic Mockups] (http://magicmockups.com)  Free real-life mockup generator.
+<br/>[Dunnnk] (http://dunnnk.com)  Generate Product Mockups For Free.
+<br/>[MockDrop] (http://mockdrop.io)  Free online device mockup images. Select your screenshot and drop it on the mockups.
+<br/>[MockUPhone] (http://mockuphone.com)  One Click to Wrap App Screenshots in Device Mockup!
+<br/>[Facebook Design Resources] (http://facebook.design)  A collection of free resources made by designers at Facebook.
+
+### Graphic Resource
+[psdexplorer] (http://www.psdexplorer.com)   Free and premium Photoshop templates.
 
 ## Web Development
 [Varvy] (https://varvy.com)  Does your site follow the Google webmaster guidelines?
