@@ -17,6 +17,7 @@ List of content
 - Mobile Applications
 - Audio
 - Online Payment
+- Health
 - Other
 - Micsellanous
 - Collaboration
@@ -297,6 +298,28 @@ List of content
 <br/>[Nettuts+] (code.tutsplus.com)  Learn how to code with thousands of free tutorials in HTML, Python, Ruby on Rails, programming, Java and more.
 <br/>[Wptuts+] (http://wp.tutsplus.com/)  Browse the latest WordPress Code Tutorials by Envato Tuts+ - all online and free!
 <br/>[Don’t Fear the Internet] (www.dontfeartheinternet.com)  BASIC HTML & CSS for NON-WEB DESIGNERS.
+<br/>[Alison] (https://alison.com)  Free Online Courses from the World’s Top Publishers.
+<br/>[CourseBuffe] (https://www.coursebuffet.com)  The Most Organized Online Course Catalog.
+<br/>[Highbrow] (http://gohighbrow.com)  Learn Something New Every Day. Get smarter with free 5-minute lessons delivered to your inbox every morning.
+<br/>[Academic Earth] (http://academicearth.org)  Free online academic education for everyone.
+<br/>[Learnist] (http://learni.st)  Join Millions, Discover and Share your knowledge with the World.
+<br/>[Degreed] (https://degreed.com)  Unlimited learning. Free forever.
+<br/>[Memrise] (https://www.memrise.com)  Learning, made joyful.
+<br/>[Greatist] (http://greatist.com)  Real facts and doable steps for your happiest life.
+<br/>[Free Code Camp] (https://www.freecodecamp.com)  Learn to code and help nonprofits.
+<br/>[Code.org] (https://code.org)  Introductory coding lessons, designed for k-12 students.
+<br/>[Data Camp] (https://www.datacamp.com)  Learn Data Science Online.
+<br/>[CodeCombat] (https://codecombat.com)  Learn programming with a multiplayer live coding strategy game. You're a wizard, and your spells are JavaScript.
+<br/>[Lrn] (http://lrnapp.com)  Learn to code at your convenience.
+
+### Language Learning
+[Duolingo] (https://www.duolingo.com)  Learn a language for free. Forever.
+<br/>[Babbel] (https://www.babbel.com)  Discover a new language experience.
+<br/>[Drops] (http://planblabs.net/drops)  The language app that doesn’t let you learn more than 5 minutes per day. (and you’ll desperately strive for more...)
+<br/>[Busuu] (https://www.busuu.com)  Community-base language learning. Interact with native speakers.
+<br/>[CoffeeStrap] (http://www.coffeestrap.com)  Practice a new language by voice chatting with native speakers with whom you share common interests.
+<br/>[Lingvist] (https://lingvist.io)  Learn a language in 200 hours.
+
 
 ## Writing
 [Hemingway Editor] (http://www.hemingwayapp.com)  Hemingway App makes your writing bold and clear. The app highlights long, complex sentences and common errors.
@@ -321,6 +344,9 @@ List of content
 
 ## Online Payment
 [gumroad] (https://gumroad.com)  An all-in-one solution to sell your work and grow your audience.
+
+## Health
+[Hello Healthy] (http://blog.myfitnesspal.com)  Short, actionable health weight loss and fitness articles.
 
 ## Other 
 [Save From Net] (http://en.savefrom.net)  Download videos from websites (online video downloader).
