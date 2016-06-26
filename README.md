@@ -312,6 +312,13 @@ List of content
 <br/>[CodeCombat] (https://codecombat.com)  Learn programming with a multiplayer live coding strategy game. You're a wizard, and your spells are JavaScript.
 <br/>[Lrn] (http://lrnapp.com)  Learn to code at your convenience.
 
+### Public Information
+[InstaNerd] (http://instanerd.me)  Read a never-ending series of random factoids.
+<br/>[TED-Ed] (http://ed.ted.com/lessons)  Lessons Worth Sharing. Curated, high-quality educational videos.
+<br/>[Now I Know] (http://nowiknow.com)  Fun facts delivered in a daily email newsletter.
+<br/>[Brain Pump] (http://brainpump.net)  Learn something new and feed your curiosity.
+<br/>[Zidbits] (http://zidbits.com)  Learn something new everyday.
+
 ### Language Learning
 [Duolingo] (https://www.duolingo.com)  Learn a language for free. Forever.
 <br/>[Babbel] (https://www.babbel.com)  Discover a new language experience.
