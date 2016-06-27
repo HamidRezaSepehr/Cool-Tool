@@ -18,6 +18,7 @@ List of content
 - Audio
 - Online Payment
 - Health
+- fun
 - Other
 - Micsellanous
 - Collaboration
@@ -318,6 +319,7 @@ List of content
 <br/>[Now I Know] (http://nowiknow.com)  Fun facts delivered in a daily email newsletter.
 <br/>[Brain Pump] (http://brainpump.net)  Learn something new and feed your curiosity.
 <br/>[Zidbits] (http://zidbits.com)  Learn something new everyday.
+<br/>[Curious] (http://zidbits.com)  Learn something new every day!
 
 ### Language Learning
 [Duolingo] (https://www.duolingo.com)  Learn a language for free. Forever.
@@ -354,6 +356,15 @@ List of content
 
 ## Health
 [Hello Healthy] (http://blog.myfitnesspal.com)  Short, actionable health weight loss and fitness articles.
+
+## Fun
+[Chesscademy] (https://www.chesscademy.com) Learn how to play chess, Watch videos, solve puzzles, and play games. All for free.
+[Surfedukators] (http://www.surfedukators.com) Free surfing videos, tips and tutorials.
+[Parkour & Freerunning World] (http://free-running.eu/videos/tutorials-parkour-freerunning-tricking) Free Parkour and Freerunning video tutorials. Be careful!
+
+### Music
+[Yousician] (http://get.yousician.com) YOUR PERSONAL MUSIC TEACHER.
+<br/>[Pianu] (https://pianu.com) Anyone Can Learn to Play Piano.
 
 ## Other 
 [Save From Net] (http://en.savefrom.net)  Download videos from websites (online video downloader).
