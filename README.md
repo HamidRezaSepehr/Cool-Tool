@@ -287,6 +287,14 @@ List of content
 
 ## Entrepreneurship
 [Despreneur] (https://despreneur.com)  A magazine about design, technology and entrepreneurship.
+<br/>[CoFoundersLab] (https://www.cofounderslab.com)  Find a co-founder for your startup business in any industry and in any city.
+<br/>[Founder2be] (https://www.founder2be.com)  Find a co-founder for your startup.
+<br/>[Startup Notes] (http://ffc2016.startupnotes.org)  Startup School invites amazing founders to tell their story.
+<br/>[Startup Class] (https://startupclass.co)  Everything we know about how to start a startup, for free, from some of the world experts.
+<br/>[Launch This Year] (http://launchthisyear.com)  Guide to help you launch your online business.
+<br/>[AngelList] (https://angel.co) Where the world meets startups.
+<br/>[Startup Talks] (http://startuptalks.tv) A curated collection of startup related videos.
+<br/>[Rocketship.fm] (http://rocketship.fm) The podcast that inspires tens of thousands of entrepreneurs each week.
 
 ## Learning
 [Udemy] (https://www.udemy.com)  An online education marketplace with limitless variety.
