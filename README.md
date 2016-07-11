@@ -9,7 +9,7 @@ List of content
 - Productivity
 - Marketing
 - Social Media
-- Entrepreneurship
+- Entrepreneurship & Startup
 - Learning
 - Writing
 - Browser Extensions
@@ -275,6 +275,7 @@ List of content
 <br/>[Addthis] (http://www.addthis.com)   Promote Your Site with the Web's Leading Social Tools.
 <br/>[Sumome Share] (https://sumome.com/app/share)  Get 20% More Traffic with Share.
 <br/>[Disqus] (https://disqus.com)  The #1 way to build your audience.
+<br/>[Gaddr] (http://www.gaddr.me)  All Profiles In One Place.
 
 ### Twitter
 [WriteRack] (https://writerack.com)    WriteRack is the best way to Tweetstorm. With WriteRack, you can Tweet more than 140 Characters on Twitter.
@@ -285,7 +286,7 @@ List of content
 ### Instagram
 [Later] (https://later.com)    Upload and schedule your Instagram posts from your computer or mobile phone. Search and repost other Instagram posts and manage multiple Instagram ...
 
-## Entrepreneurship
+## Entrepreneurship & Startup
 [Despreneur] (https://despreneur.com)  A magazine about design, technology and entrepreneurship.
 <br/>[CoFoundersLab] (https://www.cofounderslab.com)  Find a co-founder for your startup business in any industry and in any city.
 <br/>[Founder2be] (https://www.founder2be.com)  Find a co-founder for your startup.
@@ -295,6 +296,13 @@ List of content
 <br/>[AngelList] (https://angel.co) Where the world meets startups.
 <br/>[Startup Talks] (http://startuptalks.tv) A curated collection of startup related videos.
 <br/>[Rocketship.fm] (http://rocketship.fm) The podcast that inspires tens of thousands of entrepreneurs each week.
+<br/>[Startup Digest] (https://www.startupdigest.com) Personalized newsletter for all things startup in your area.
+<br/>[ChargeWhatYou’reWorth] (https://doubleyourfreelancing.com/free-pricing-course) Free course on charging what you’re worth.
+<br/>[Mattermark Daily] (https://mattermark.com/#mattermark-daily) Curated newsletter from investors & founders.
+<br/>[Product Psychology] (http://www.productpsychology.com) Lessons on User Behavior.
+<br/>[Foundrs] (http://foundrs.com) Co-founder equity calculator.
+<br/>[Pitcherific] (https://pitcherific.com) Prepare better pitches. In record time.
+<br/>[HowMuchToMakeAnApp] (http://howmuchtomakeanapp.com) Calculate the cost of a mobile application.
 
 ## Learning
 [Udemy] (https://www.udemy.com)  An online education marketplace with limitless variety.
@@ -320,6 +328,11 @@ List of content
 <br/>[Data Camp] (https://www.datacamp.com)  Learn Data Science Online.
 <br/>[CodeCombat] (https://codecombat.com)  Learn programming with a multiplayer live coding strategy game. You're a wizard, and your spells are JavaScript.
 <br/>[Lrn] (http://lrnapp.com)  Learn to code at your convenience.
+<br/>[Design for Hackers] (http://designforhackers.com)  12 weeks of design learning, right in your inbox.
+
+### Newsletter
+[UX Design Weekly] (http://uxdesignweekly.com)  Best user experience design links every week.
+<br/>[UX Newsletter] (http://www.theuxnewsletter.com)  Tales of researching, designing, and building.
 
 ### Public Information
 [InstaNerd] (http://instanerd.me)  Read a never-ending series of random factoids.
