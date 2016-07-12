@@ -136,6 +136,11 @@ List of content
 <br/>[Free Digital Photos] (http://www.freedigitalphotos.net)   Royalty free images - high quality stock photos and illustrations.
 <br/>[Morguefile] (https://www.morguefile.com)   Contains high-resolution stock photography images free for either corporate or private use.
 <br/>[Free Range Stock] (https://freerangestock.com)   Free stock photography.
+<br/>[Picography] (http://picography.co)   Picography by Hidden Depth provides stunning photography for use however you like.
+<br/>[Epicantus] (http://epicantus.tumblr.com)   FREE ORIGINAL PHOTOGRAPHY by Daria.
+
+<br/>[Shutterstock] (http://www.shutterstock.com)   Stock photo marketplace. "Paid"
+<br/>[Dollar Photo Club] (https://www.dollarphotoclub.com)   Find and purchase high-quality stock photos for only $1 a piece. "Paid"
 
 ### Image Optimizer
 [TinyJPG] (https://tinyjpg.com)  Optimize your images with a perfect balance in quality and file size.
@@ -162,6 +167,7 @@ List of content
 <br/>[MockDrop] (http://mockdrop.io)  Free online device mockup images. Select your screenshot and drop it on the mockups.
 <br/>[MockUPhone] (http://mockuphone.com)  One Click to Wrap App Screenshots in Device Mockup!
 <br/>[Facebook Design Resources] (http://facebook.design)  A collection of free resources made by designers at Facebook.
+<br/>[Smartmockups] (http://smartmockups.com)  Create product screenshots with just a few clicks, for free!
 
 ### Graphic Resource
 [psdexplorer] (http://www.psdexplorer.com)   Free and premium Photoshop templates.
@@ -391,3 +397,4 @@ List of content
 [Save From Net] (http://en.savefrom.net)  Download videos from websites (online video downloader).
 <br/>[Google Trends] (https://www.google.com/trends/hottrends/visualize?pn=p1)  See the latest trends, data and visualizations from Google. Find out what's trending near you right now.
 <br/>[change.org] (https://www.change.org)  The world’s platform for c
+<br/>[GIPHY] (http://giphy.com)  GIPHY is your top source for the best & newest GIFs & Animated Stickers online.
