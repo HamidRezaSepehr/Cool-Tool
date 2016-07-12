@@ -335,6 +335,7 @@ List of content
 <br/>[CodeCombat] (https://codecombat.com)  Learn programming with a multiplayer live coding strategy game. You're a wizard, and your spells are JavaScript.
 <br/>[Lrn] (http://lrnapp.com)  Learn to code at your convenience.
 <br/>[Design for Hackers] (http://designforhackers.com)  12 weeks of design learning, right in your inbox.
+<br/>[Random HTML Tags] (https://randomhtmltags.tech)  The easiest way to learn HTML.
 
 ### Newsletter
 [UX Design Weekly] (http://uxdesignweekly.com)  Best user experience design links every week.
