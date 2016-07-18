@@ -388,8 +388,9 @@ List of content
 
 ## Fun
 [Chesscademy] (https://www.chesscademy.com) Learn how to play chess, Watch videos, solve puzzles, and play games. All for free.
-[Surfedukators] (http://www.surfedukators.com) Free surfing videos, tips and tutorials.
-[Parkour & Freerunning World] (http://free-running.eu/videos/tutorials-parkour-freerunning-tricking) Free Parkour and Freerunning video tutorials. Be careful!
+<br/>[Surfedukators] (http://www.surfedukators.com) Free surfing videos, tips and tutorials.
+<br/>[Parkour & Freerunning World] (http://free-running.eu/videos/tutorials-parkour-freerunning-tricking) Free Parkour and Freerunning video tutorials. Be careful!
+<br/>[EmojiMadeWithCode] (https://www.madewithcode.com)   Google is working to make sure emoji include a wider range of female professions.
 
 ### Music
 [Yousician] (http://get.yousician.com) YOUR PERSONAL MUSIC TEACHER.
