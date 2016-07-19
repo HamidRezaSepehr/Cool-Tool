@@ -380,6 +380,10 @@ List of content
 <br/>[Defonic] (http://defonic.com)  Create unique soundscapes, combine the sounds of the world into a melody.
 <br/>[Designers.mx] (https://designers.mx)  Curated playlists by designers, for designers.
 
+## Video
+[Compressify] (https://compressify.herokuapp.com)  Optimize video files online.
+
+
 ## Online Payment
 [gumroad] (https://gumroad.com)  An all-in-one solution to sell your work and grow your audience.
 
