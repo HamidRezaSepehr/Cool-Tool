@@ -312,6 +312,11 @@ List of content
 <br/>[Pitcherific] (https://pitcherific.com) Prepare better pitches. In record time.
 <br/>[HowMuchToMakeAnApp] (http://howmuchtomakeanapp.com) Calculate the cost of a mobile application.
 
+<br/>[Germ.io] (https://germ.io)  Get from Ideas to Execution.
+<br/>[Experiment Board] (http://vip.javelin.com)  Start and grow your business, faster.
+<br/>[Curator] (http://curator.co)  Collect. Organise. Present.
+<br/>[@Point] (http://www.getpoint.co)  Use Point to send and discuss webpages with friends.
+
 ## Learning
 [Udemy] (https://www.udemy.com)  An online education marketplace with limitless variety.
 <br/>[Udacity ] (https://www.udacity.com)  An online university, "by Silicon Valley".
