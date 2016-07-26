@@ -316,6 +316,7 @@ List of content
 <br/>[Experiment Board] (http://vip.javelin.com)  Start and grow your business, faster.
 <br/>[Curator] (http://curator.co)  Collect. Organise. Present.
 <br/>[@Point] (http://www.getpoint.co)  Use Point to send and discuss webpages with friends.
+<br/>[mindmeister] (https://www.mindmeister.com)  Collaborative mind mapping.
 
 ## Learning
 [Udemy] (https://www.udemy.com)  An online education marketplace with limitless variety.
