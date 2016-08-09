@@ -85,7 +85,7 @@ List of content
 ### Stock Photo:
 [Pexels] (https://www.pexels.com) Free stock photos you can use everywhere.
 <br/>[Unsplash] (https://unsplash.com) Do-whatever-you-want high-resolution photos.
-<br/>[Stokpic] (stokpic.com) Free Stock Photos For commercial Use.
+<br/>[Stokpic] (https://stokpic.com) Free Stock Photos For commercial Use.
 <br/>[StockSnap] (https://stocksnap.io) The #1 source for beautiful free stock photos.
 <br/>[Pixabay] (https://pixabay.com) Free images and videos you can use anywhere.
 <br/>[StockUp] (http://www.sitebuilderreport.com/stock-up) Stock Up aggregates free stock photos across dozens of free stock photo sources.
