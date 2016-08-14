@@ -317,6 +317,7 @@ List of content
 <br/>[Curator] (http://curator.co)  Collect. Organise. Present.
 <br/>[@Point] (http://www.getpoint.co)  Use Point to send and discuss webpages with friends.
 <br/>[mindmeister] (https://www.mindmeister.com)  Collaborative mind mapping.
+<br/>[XMind] (http://www.xmind.net)  The Most Popular Mind Mapping Tool on The Planet.
 
 ## Learning
 [Udemy] (https://www.udemy.com)  An online education marketplace with limitless variety.
