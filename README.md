@@ -221,6 +221,8 @@ List of content
 <br/>[Domainr] (https://domainr.com)   Whether you're looking for a .com, local domain, or a short URL, with one-tap buy from hundreds of partner registrars, Domainr will help you find it, fast.
 <br/> [Dock Name]  (http://dockname.com)  Crowdsourced domains.
 <br/> [knowem]  (http://knowem.com)  The Brand Search Engine for Social Media, Domains & Trademarks.
+<br/> [Namechk]  (https://namechk.com)  The go to resource for username availability.
+<br/> [Panabee]  (http://www.panabee.com)  Business name generator & domain name search.
 
 
 ### Logo Generator
