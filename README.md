@@ -219,6 +219,8 @@ List of content
 <br/>[Hipster Business Name] (http://www.hipsterbusiness.name)   Business Name Generator.
 <br/>[Impossibility] (http://impossibility.org)   Find incredible domain names using our ultra-fast domain name generator. It's the best domain name search engine ever, no kidding.
 <br/>[Domainr] (https://domainr.com)   Whether you're looking for a .com, local domain, or a short URL, with one-tap buy from hundreds of partner registrars, Domainr will help you find it, fast.
+<br/> [Dock Name]  (http://dockname.com)  Crowdsourced domains.
+<br/> [knowem]  (http://knowem.com)  The Brand Search Engine for Social Media, Domains & Trademarks.
 
 
 ### Logo Generator
