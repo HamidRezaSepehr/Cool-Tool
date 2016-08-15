@@ -318,6 +318,8 @@ List of content
 <br/>[@Point] (http://www.getpoint.co)  Use Point to send and discuss webpages with friends.
 <br/>[mindmeister] (https://www.mindmeister.com)  Collaborative mind mapping.
 <br/>[XMind] (http://www.xmind.net)  The Most Popular Mind Mapping Tool on The Planet.
+<br/>[Box Notes] (https://blog.box.com/notes)  Never let the best ideas get away.
+<br/>[Elevatr] (http://home.elevatr.com)  A fast, beautiful, and fun way to capture, organize, and share business ideas.
 
 ## Learning
 [Udemy] (https://www.udemy.com)  An online education marketplace with limitless variety.
