@@ -223,6 +223,10 @@ List of content
 <br/> [knowem]  (http://knowem.com)  The Brand Search Engine for Social Media, Domains & Trademarks.
 <br/> [Namechk]  (https://namechk.com)  The go to resource for username availability.
 <br/> [Panabee]  (http://www.panabee.com)  Business name generator & domain name search.
+<br/> [BrandBucket]  (https://www.brandbucket.com)  The original marketplace for brandable business names.
+<br/> [NameRobot]  (https://www.namerobot.com)  Find the name for your project.
+<br/> [Trademarkia]  (http://www.trademarkia.com)  Search Millions of Trademarks.
+<br/> [How to Name your startup]  (http://thisweekinstartups.com/name-startup-wsgr-startup-basics)  How to name your startup?
 
 
 ### Logo Generator
