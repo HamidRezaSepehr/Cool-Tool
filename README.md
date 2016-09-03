@@ -229,7 +229,10 @@ List of content
 <br/> [How to Name your startup]  (http://thisweekinstartups.com/name-startup-wsgr-startup-basics)  How to name your startup?
 
 <br/> [Namecheap]  (https://www.namecheap.com)  Getting your site online is easier than you think.
-<br/> [	Namebox.io]  (https://namebox.io)  Sell and/or Buy your domains.
+<br/> [Namebox.io]  (https://namebox.io)  Sell and/or Buy your domains.
+<br/> [Name.com]  (https://www.name.com)  Your website awaits...
+<br/> [Instant Domain Search]  (https://instantdomainsearch.com)  See domain name search results as you type
+<br/> [GO.CO]  (http://www.go.co)  It all starts with your idea.
 
 
 ### Logo Generator
