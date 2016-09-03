@@ -241,6 +241,9 @@ List of content
 [Bluehost]  (https://www.bluehost.com)  The worldwide leader in web hosting solutions. 
 <br/> [BladeWP]  (https://bladewp.com)  Rocksolid WordPress Hosting.
 <br/> [Rackspace]  (http://rackspacestartups.com)  The managed cloud company. Backed by Fanatical Support.
+<br/> [Amazon Web Services]  (http://aws.amazon.com)  Cloud Computing Services.
+<br/> [Heroku]  (https://www.heroku.com)  Cloud Application Platform.
+<br/> [DigitalOcean]  (http://www.digitalocean.com)  SSD Cloud Server, VPS Server, Simple Cloud Hosting.
 
 
 ### Logo Generator
