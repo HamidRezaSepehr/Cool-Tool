@@ -237,6 +237,11 @@ List of content
 <br/> [Dictionary Domains]  (http://www.dictionarydomains.co)  Legit, unregistered domains that you can get right now!
 <br/> [domcomp]  (https://www.domcomp.com)  Simplifying Domain Registrations.
 
+### Hosting
+[Bluehost]  (https://www.bluehost.com)  The worldwide leader in web hosting solutions. 
+<br/> [BladeWP]  (https://bladewp.com)  Rocksolid WordPress Hosting.
+<br/> [Rackspace]  (http://rackspacestartups.com)  The managed cloud company. Backed by Fanatical Support.
+
 
 ### Logo Generator
 [Hipster Logo Generator] (https://www.hipsterlogogenerator.com)    It's Hip, It's Current, It's Stylish, It's Hipster.
