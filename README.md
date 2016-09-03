@@ -233,6 +233,9 @@ List of content
 <br/> [Name.com]  (https://www.name.com)  Your website awaits...
 <br/> [Instant Domain Search]  (https://instantdomainsearch.com)  See domain name search results as you type
 <br/> [GO.CO]  (http://www.go.co)  It all starts with your idea.
+<br/> [Lean Domain Search]  (http://www.leandomainsearch.com)  Find a great available domain name for your website in seconds.
+<br/> [Dictionary Domains]  (http://www.dictionarydomains.co)  Legit, unregistered domains that you can get right now!
+<br/> [domcomp]  (https://www.domcomp.com)  Simplifying Domain Registrations.
 
 
 ### Logo Generator
