@@ -210,7 +210,7 @@ List of content
 
 ## Business
 
-### Business Name
+### Business Name & Domain Name
 [The Name App] (http://thenameapp.com)    You have a brilliant idea, even come up with a unique name for it, now let's see if it has available domains and usernames on the major platforms.
 <br/>[Naminum] (http://www.naminum.com)    Naminum is the leading free startup name, company name, business name and website name generator on the web.
 <br/>[Short Domain Search] (http://shortdomainsearch.com)    An up-to-date list of short, available, single word domain names.
@@ -227,6 +227,9 @@ List of content
 <br/> [NameRobot]  (https://www.namerobot.com)  Find the name for your project.
 <br/> [Trademarkia]  (http://www.trademarkia.com)  Search Millions of Trademarks.
 <br/> [How to Name your startup]  (http://thisweekinstartups.com/name-startup-wsgr-startup-basics)  How to name your startup?
+
+<br/> [Namecheap]  (https://www.namecheap.com)  Getting your site online is easier than you think.
+<br/> [	Namebox.io]  (https://namebox.io)  Sell and/or Buy your domains.
 
 
 ### Logo Generator
