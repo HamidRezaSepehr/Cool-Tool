@@ -244,6 +244,10 @@ List of content
 <br/> [Amazon Web Services]  (http://aws.amazon.com)  Cloud Computing Services.
 <br/> [Heroku]  (https://www.heroku.com)  Cloud Application Platform.
 <br/> [DigitalOcean]  (http://www.digitalocean.com)  SSD Cloud Server, VPS Server, Simple Cloud Hosting.
+<br/> [Joyent]  (https://www.joyent.com)  Modern Applications and Operations Made Easy.
+<br/> [StatusCake]  (http://www.statuscake.com)  Free unlimited website monitoring.
+<br/> [Hoasted]  (http://www.hoasted.com)  Webhosting with extreme performance.
+
 
 
 ### Logo Generator
