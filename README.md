@@ -274,6 +274,11 @@ List of content
 <br/>[Hubspot] (http://www.hubspot.com/blog-topic-generator)    BLOG TOPIC GENERATOR.
 <br/>[Quick Sprout] (https://www.quicksprout.com)    Make Better Content.
 
+### Market Research
+[GOOGLE TRENDS] (https://www.google.com/trends)  Get insights on search-terms.
+<br/> [Validately] (http://validately.com)  Take the pain out of user research.
+<br/> [AYTM] (http://aytm.com)  Ask Your Target Market.
+
 ## Productivity
 ### ORGANIZE & COLLABORATE
 [Trello] (https://trello.com)  Work with perspective. Trello helps teams of all sizes work collaboratively to get more done.
