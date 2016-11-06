@@ -177,7 +177,8 @@ List of content
 [Varvy] (https://varvy.com)  Does your site follow the Google webmaster guidelines?
 
 ### CSS Snippet
-[Hamburger Menu]  (https://jonsuh.com/hamburgers/) Tasty CSS-animated hamburgers
+[Hamburger Menu]  (https://jonsuh.com/hamburgers) Tasty CSS-animated hamburgers
+<br/>[CSS-Only Hamburger]  (http://callmenick.com/_development/css-hamburger-menu-icons) CSS-Only Hamburger Menu Icons
 
 ### Plugins
 [Adaptive Backgrounds] (http://briangonzalez.github.io/jquery.adaptive-backgrounds.js) A jQuery plugin for extracting dominant colors from images and applying it to its parent.
@@ -210,6 +211,9 @@ List of content
 <br/>[XML Sitemaps] (https://www.xml-sitemaps.com)  Sitemap generator that creates XML & HTML variants.
 <br/>[W3C validator] (https://validator.w3.org)  Markup Validation Service.
 <br/>[Shopify E-commerce Report] (https://www.shopify.com/tools)  Get your free Ecommerce report.
+
+### Web Devlopment Blogs
+[Call Me Nick]  (http://callmenick.com) Front End Development Advenutures, Experiments, Tutorials, & Musings.
 
 ## Business
 
