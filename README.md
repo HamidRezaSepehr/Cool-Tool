@@ -176,6 +176,9 @@ List of content
 ## Web Development
 [Varvy] (https://varvy.com)  Does your site follow the Google webmaster guidelines?
 
+### CSS Snippet
+[Hamburger Menu]  (https://jonsuh.com/hamburgers/) Tasty CSS-animated hamburgers
+
 ### Plugins
 [Adaptive Backgrounds] (http://briangonzalez.github.io/jquery.adaptive-backgrounds.js) A jQuery plugin for extracting dominant colors from images and applying it to its parent.
 
