@@ -212,6 +212,10 @@ List of content
 <br/>[W3C validator] (https://validator.w3.org)  Markup Validation Service.
 <br/>[Shopify E-commerce Report] (https://www.shopify.com/tools)  Get your free Ecommerce report.
 
+### Web Fonts Generator
+[Online Font Converter]  (https://onlinefontconverter.com) converts fonts to/from: .dfont .eot .otf .pfb .pfm .suit .svg .ttf .pfa .bin .pt3 .ps .t42 .cff .afm .ttc, .pdf & .woff.
+<br/>[Transfonter]  (http://transfonter.org) Modern and simple css @font-face generator
+
 ### Web Devlopment Blogs
 [Call Me Nick]  (http://callmenick.com) Front End Development Advenutures, Experiments, Tutorials, & Musings.
 
