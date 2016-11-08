@@ -218,7 +218,9 @@ List of content
 
 ### Web Devlopment Blogs
 [Call Me Nick]  (http://callmenick.com) Front End Development Advenutures, Experiments, Tutorials, & Musings.
-[I Hate Tomatoes]  (https://ihatetomatoes.net) Petr Tichy is a professional front end developer from Melbourne. Ask Petr how he could help you or your business online.
+<br/>[I Hate Tomatoes]  (https://ihatetomatoes.net) Petr Tichy is a professional front end developer from Melbourne. Ask Petr how he could help you or your business online.
+<br/>[Codrops]  (http://tympanus.net/codrops) Useful resources and inspiration for creative minds.
+<br/>[CodyHouse]  (https://codyhouse.co) A free library of HTML/CSS/Javascript resources to boost your web projects and learn new tricks.
 
 ## Business
 
