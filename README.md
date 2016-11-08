@@ -218,6 +218,7 @@ List of content
 
 ### Web Devlopment Blogs
 [Call Me Nick]  (http://callmenick.com) Front End Development Advenutures, Experiments, Tutorials, & Musings.
+[I Hate Tomatoes]  (https://ihatetomatoes.net) Petr Tichy is a professional front end developer from Melbourne. Ask Petr how he could help you or your business online.
 
 ## Business
 
