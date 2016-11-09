@@ -222,6 +222,7 @@ List of content
 <br/>[Codrops]  (http://tympanus.net/codrops) Useful resources and inspiration for creative minds.
 <br/>[CodyHouse]  (https://codyhouse.co) A free library of HTML/CSS/Javascript resources to boost your web projects and learn new tricks.
 <br/>[CSS-Tricks]  (https://css-tricks.com) Tips, Tricks, and Techniques on using Cascading Style Sheets.
+<br/>[Scotch]  (https://scotch.io) Developers bringing fire to the people.
 
 ## Business
 
