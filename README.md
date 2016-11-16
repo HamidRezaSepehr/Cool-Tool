@@ -484,3 +484,6 @@ List of content
 ### Resume & CV
 [cvmaker]  (https://cvmkr.com) Create beautiful, professional resumes in minutes, free.
 <br/>[VisualCV]  (https://www.visualcv.com) Create a standout resume in minutes
+<br/>[KICKRESUME]  (https://www.kickresume.com) Be who you are and get your dream job today
+<br/>[Resume-Now] (https://www.resume-now.com) Instantly Create a Resume that Employers Love
+<br/>[Resume Builder]  (http://www.resumebuilder.org) Make you resume and cover letter in minutes
