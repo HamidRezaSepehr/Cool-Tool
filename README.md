@@ -479,3 +479,7 @@ List of content
 <br/>[Google Trends] (https://www.google.com/trends/hottrends/visualize?pn=p1)  See the latest trends, data and visualizations from Google. Find out what's trending near you right now.
 <br/>[change.org] (https://www.change.org)  The world’s platform for c
 <br/>[GIPHY] (http://giphy.com)  GIPHY is your top source for the best & newest GIFs & Animated Stickers online.
+
+## Micsellanous
+### Resume & CV
+[cvmaker]  (https://cvmkr.com) Create beautiful, professional resumes in minutes, free.
