@@ -483,3 +483,4 @@ List of content
 ## Micsellanous
 ### Resume & CV
 [cvmaker]  (https://cvmkr.com) Create beautiful, professional resumes in minutes, free.
+<br/>[VisualCV]  (https://www.visualcv.com) Create a standout resume in minutes
