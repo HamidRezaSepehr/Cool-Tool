@@ -469,6 +469,7 @@ List of content
 <br/>[Surfedukators] (http://www.surfedukators.com) Free surfing videos, tips and tutorials.
 <br/>[Parkour & Freerunning World] (http://free-running.eu/videos/tutorials-parkour-freerunning-tricking) Free Parkour and Freerunning video tutorials. Be careful!
 <br/>[EmojiMadeWithCode] (https://www.madewithcode.com)   Google is working to make sure emoji include a wider range of female professions.
+<br/>[the useless web]  (http://www.theuselessweb.com)  TAKE ME TO ANOTHER USELESS WEBSITE.
 
 ### Music
 [Yousician] (http://get.yousician.com) YOUR PERSONAL MUSIC TEACHER.
