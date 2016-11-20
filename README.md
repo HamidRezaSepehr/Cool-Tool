@@ -361,6 +361,7 @@ List of content
 <br/>[Foundrs] (http://foundrs.com) Co-founder equity calculator.
 <br/>[Pitcherific] (https://pitcherific.com) Prepare better pitches. In record time.
 <br/>[HowMuchToMakeAnApp] (http://howmuchtomakeanapp.com) Calculate the cost of a mobile application.
+<br/>[FoundersAndFounders]  (http://fundersandfounders.com) Startup blog covering entrepreneurs and investors through infographic media. We explain funding, starting up, and success with visual how-tos and data.
 
 <br/>[Germ.io] (https://germ.io)  Get from Ideas to Execution.
 <br/>[Experiment Board] (http://vip.javelin.com)  Start and grow your business, faster.
