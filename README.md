@@ -476,11 +476,6 @@ List of content
 [Yousician] (http://get.yousician.com) YOUR PERSONAL MUSIC TEACHER.
 <br/>[Pianu] (https://pianu.com) Anyone Can Learn to Play Piano.
 
-## Other 
-[Save From Net] (http://en.savefrom.net)  Download videos from websites (online video downloader).
-<br/>[Google Trends] (https://www.google.com/trends/hottrends/visualize?pn=p1)  See the latest trends, data and visualizations from Google. Find out what's trending near you right now.
-<br/>[change.org] (https://www.change.org)  The world’s platform for c
-<br/>[GIPHY] (http://giphy.com)  GIPHY is your top source for the best & newest GIFs & Animated Stickers online.
 
 ## Micsellanous
 ### Resume & CV
@@ -489,3 +484,10 @@ List of content
 <br/>[KICKRESUME]  (https://www.kickresume.com) Be who you are and get your dream job today
 <br/>[Resume-Now] (https://www.resume-now.com) Instantly Create a Resume that Employers Love
 <br/>[Resume Builder]  (http://www.resumebuilder.org) Make you resume and cover letter in minutes
+
+### Other 
+[Save From Net] (http://en.savefrom.net)  Download videos from websites (online video downloader).
+<br/>[Google Trends] (https://www.google.com/trends/hottrends/visualize?pn=p1)  See the latest trends, data and visualizations from Google. Find out what's trending near you right now.
+<br/>[change.org] (https://www.change.org)  The world’s platform for c
+<br/>[GIPHY] (http://giphy.com)  GIPHY is your top source for the best & newest GIFs & Animated Stickers online.
+<br/> [Instructables]  (http://www.instructables.com) Instructables is a place that lets you explore, document, and share your DIY creations.
