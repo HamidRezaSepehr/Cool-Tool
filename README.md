@@ -491,3 +491,4 @@ List of content
 <br/>[change.org] (https://www.change.org)  The world’s platform for c
 <br/>[GIPHY] (http://giphy.com)  GIPHY is your top source for the best & newest GIFs & Animated Stickers online.
 <br/> [Instructables]  (http://www.instructables.com) Instructables is a place that lets you explore, document, and share your DIY creations.
+[Squirt]  (http://squirt.io)  Squirt. Speed read the web, one word at a time.
