@@ -471,6 +471,7 @@ List of content
 <br/>[Parkour & Freerunning World] (http://free-running.eu/videos/tutorials-parkour-freerunning-tricking) Free Parkour and Freerunning video tutorials. Be careful!
 <br/>[EmojiMadeWithCode] (https://www.madewithcode.com)   Google is working to make sure emoji include a wider range of female professions.
 <br/>[the useless web]  (http://www.theuselessweb.com)  TAKE ME TO ANOTHER USELESS WEBSITE.
+<br/>[FuckingHomePage]  (http://fpage.co)=(http://fuckinghomepage.com) Daily links to enlighten and educate you.
 
 ### Music
 [Yousician] (http://get.yousician.com) YOUR PERSONAL MUSIC TEACHER.
