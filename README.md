@@ -428,6 +428,7 @@ List of content
 <br/>[Liberio] (http://liber.io)    Create and publish eBooks for free. Really simple. Right from Dropbox, Google Drive, OneDrive, GitHub or your computer. 
 <br/>[Story Wars] (https://www.storywars.net)    Story Wars is collaborative and competitive storytelling website. Take turns writing the story. Vote on which chapter should be included.
 <br/>[Headline Analyzer] (http://www.aminstitute.com/headline/index.htm)    Empathetic. Spiritual. Words which are especially effective when offering products and services that require reasoning or careful evaluation.
+<br/>[Readability Score] (https://readability-score.com) Make your content more readable today! 
 
 ## Browser Extensions
 
