@@ -19,6 +19,7 @@ List of content
 - Online Payment
 - Crowdfunding
 - Health
+- Entertainment
 - fun
 - Other
 - Micsellanous
@@ -467,6 +468,9 @@ List of content
 
 ## Health
 [Hello Healthy] (http://blog.myfitnesspal.com)  Short, actionable health weight loss and fitness articles.
+
+## Entertainment 
+[Roadtrippers]  (https://roadtrippers.com) Your Vacation, Your Road Trip, Your Weekend 
 
 ## Fun
 [Chesscademy] (https://www.chesscademy.com) Learn how to play chess, Watch videos, solve puzzles, and play games. All for free.
