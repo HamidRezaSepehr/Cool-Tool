@@ -18,6 +18,7 @@ List of content
 - Audio
 - Online Payment
 - Crowdfunding
+- Self Improvement
 - Health
 - Entertainment
 - fun
@@ -465,6 +466,10 @@ List of content
 <br/>[DonorsChoose] (https://www.donorschoose.org)  Support a classroom. Build a future.
 <br/>[kiva] (https://www.kiva.org)  Loans that change lives.
 <br/>[Giveforward] (http://www.giveforward.com)  Many ways to help One place to start.
+
+## Self Improvement
+[spreeder]  (http://spreeder.com) Improve reading speed and comprehension.
+
 
 ## Health
 [Hello Healthy] (http://blog.myfitnesspal.com)  Short, actionable health weight loss and fitness articles.
