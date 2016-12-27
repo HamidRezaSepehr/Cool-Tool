@@ -20,6 +20,7 @@ List of content
 - Crowdfunding
 - Self Improvement
 - Health
+- Public Information
 - Entertainment
 - fun
 - Other
@@ -474,6 +475,9 @@ List of content
 
 ## Health
 [Hello Healthy] (http://blog.myfitnesspal.com)  Short, actionable health weight loss and fitness articles.
+
+## Public Information
+[Reference]  (https://www.reference.com)  Reference.com is the #1 question answering service that delivers the best answers from the web and real people - all in one place.
 
 ## Entertainment 
 [Roadtrippers]  (https://roadtrippers.com) Your Vacation, Your Road Trip, Your Weekend 
