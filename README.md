@@ -487,7 +487,9 @@ List of content
 ## Self Improvement
 [spreeder]  (http://spreeder.com) Improve reading speed and comprehension.
 
-### [Style Guide Podcast]  (http://styleguides.io/podcast/index.html) A small batch series of interviews on Style Guides, hosted by Anna Debenham and Brad Frost.
+### Podcast
+[Style Guide Podcast]  (http://styleguides.io/podcast/index.html) A small batch series of interviews on Style Guides, hosted by Anna Debenham and Brad Frost.
+<br/>[rocketship.fm]  (http://rocketship.fm) The podcast that inspires tens of thousands of entrepreneurs each week.
 
 ## Creativity
 [CreativeMornings]  (https://creativemornings.com) CreativeMornings is a breakfast lecture series for the creative community.
