@@ -490,6 +490,10 @@ List of content
 ### Podcast
 [Style Guide Podcast]  (http://styleguides.io/podcast/index.html) A small batch series of interviews on Style Guides, hosted by Anna Debenham and Brad Frost.
 <br/>[rocketship.fm]  (http://rocketship.fm) The podcast that inspires tens of thousands of entrepreneurs each week.
+<br/>[Responsive Web Design Podcast]  (http://responsivewebdesign.com/podcast) This is a Responsive Web Design Podcast, co-hosted by Karen McGrane and Ethan Marcotte. 
+<br/>[Boagworld show]  (https://boagworld.com/show) Are you looking for advice on user experience design? Do you want to better reach today's connected consumers? If so you are in the right place.
+<br/>[Hack To Start]  (http://hacktostart.com) A podcast focused on interesting people and the innovative ways they achieve success.
+<br/>[DRT]  (https://drt.fm) Interviews with the world’s most influential thought leaders in business, design and technology.
 
 ## Creativity
 [CreativeMornings]  (https://creativemornings.com) CreativeMornings is a breakfast lecture series for the creative community.
