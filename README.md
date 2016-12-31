@@ -229,6 +229,8 @@ List of content
 <br/>[Scotch]  (https://scotch.io) Developers bringing fire to the people.
 <br/>[thetoolbox]  (http://thetoolbox.cc)  Useful Tools For People Who Build Websites.
 
+<br/>[Smashing Magazine]  (https://www.smashingmagazine.com) Smashing Magazine – For Professional Web Designers and Developers
+
 ### Web Inspiration
 [ONE PAGE LOVE]  (https://onepagelove.com) The ultimate showcase of One Page websites.
 
@@ -323,6 +325,8 @@ List of content
 <br/>[Beta List] (https://betalist.com)  Discover and get early access to tomorrow’s startups.
 <br/>[Startups List] (http://www.startups-list.com)  Collections of the best startups in different places
 <br/>[Erli Bird] (http://erlibird.com)  Real-World Beta & Usability Testing.
+<br/>[Get Worm]  (https://getworm.com) Help a Startup start-up and let them love you back.
+<br/>[Launching Next]  (http://launchingnext.com) World's most promising startups.
 
 ## Marketing
 
@@ -381,9 +385,6 @@ List of content
 <br/>[Box Notes] (https://blog.box.com/notes)  Never let the best ideas get away.
 <br/>[Elevatr] (http://home.elevatr.com)  A fast, beautiful, and fun way to capture, organize, and share business ideas.
 
-<br/>[BetaList]  (https://betalist.com) BetaList – Discover and get early access to tomorrow's startups
-<br/>[Get Worm]  (https://getworm.com) Help a Startup start-up and let them love you back.
-<br/>[Launching Next]  (http://launchingnext.com) World's most promising startups.
 
 ## Learning
 [Udemy] (https://www.udemy.com)  An online education marketplace with limitless variety.
