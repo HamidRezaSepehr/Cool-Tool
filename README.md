@@ -228,6 +228,8 @@ List of content
 <br/>[CSS-Tricks]  (https://css-tricks.com) Tips, Tricks, and Techniques on using Cascading Style Sheets.
 <br/>[Scotch]  (https://scotch.io) Developers bringing fire to the people.
 <br/>[thetoolbox]  (http://thetoolbox.cc)  Useful Tools For People Who Build Websites.
+<br/>[abduzeedo]  (http://abduzeedo.com) Part of the Daily Inspiration series that started it all on Abduzeedo. This is where you'll find the most interesting things/finds/work curated by one of us to simply ...
+
 
 <br/>[Smashing Magazine]  (https://www.smashingmagazine.com) Smashing Magazine – For Professional Web Designers and Developers
 
