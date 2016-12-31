@@ -230,6 +230,8 @@ List of content
 <br/>[thetoolbox]  (http://thetoolbox.cc)  Useful Tools For People Who Build Websites.
 <br/>[abduzeedo]  (http://abduzeedo.com) Part of the Daily Inspiration series that started it all on Abduzeedo. This is where you'll find the most interesting things/finds/work curated by one of us to simply ...
 <br/>[sidebar]  (http://sidebar.io) A simple yet powerful concept, the 5 best design links, every day.
+<br/>[Designer News] (https://www.designernews.co) Designer News is a community where design and technology professionals share interesting links and timely events.
+<br/>[Speckyboy]  (https://speckyboy.com) Speckyboy is an online magazine for designers with its focus on sharing helpful resources, exploring new techniques, sharing useful tips, and inspiring you to ...
 
 
 <br/>[Smashing Magazine]  (https://www.smashingmagazine.com) Smashing Magazine – For Professional Web Designers and Developers
