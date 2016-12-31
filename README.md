@@ -19,6 +19,7 @@ List of content
 - Online Payment
 - Crowdfunding
 - Self Improvement
+- Resources
 - Podcast
 - Creativity
 - Health
@@ -228,7 +229,6 @@ List of content
 <br/>[CodyHouse]  (https://codyhouse.co) A free library of HTML/CSS/Javascript resources to boost your web projects and learn new tricks.
 <br/>[CSS-Tricks]  (https://css-tricks.com) Tips, Tricks, and Techniques on using Cascading Style Sheets.
 <br/>[Scotch]  (https://scotch.io) Developers bringing fire to the people.
-<br/>[thetoolbox]  (http://thetoolbox.cc)  Useful Tools For People Who Build Websites.
 <br/>[abduzeedo]  (http://abduzeedo.com) Part of the Daily Inspiration series that started it all on Abduzeedo. This is where you'll find the most interesting things/finds/work curated by one of us to simply ...
 <br/>[sidebar]  (http://sidebar.io) A simple yet powerful concept, the 5 best design links, every day.
 <br/>[Designer News] (https://www.designernews.co) Designer News is a community where design and technology professionals share interesting links and timely events.
@@ -486,6 +486,14 @@ List of content
 
 ## Self Improvement
 [spreeder]  (http://spreeder.com) Improve reading speed and comprehension.
+
+## Resources
+[startupstash]  (http://startupstash.com) A curated directory of resources & tools to help you build your Startup.
+<br/>[thetoolbox]  (http://thetoolbox.cc)  Useful Tools For People Who Build Websites.
+<br/>[Oozled]  (http://oozled.com) Curated resources for everything creative.
+<br/>[Growth Supply]  (http://growth.supply/free) +400 Awesome Free Tools To Build Your Business.
+<br/>[besttoolsfor.com]  (http://besttoolsfor.com) The best of the best tools for people who make awesome things.
+
 
 ### Podcast
 [Style Guide Podcast]  (http://styleguides.io/podcast/index.html) A small batch series of interviews on Style Guides, hosted by Anna Debenham and Brad Frost.
