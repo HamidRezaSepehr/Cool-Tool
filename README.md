@@ -228,6 +228,9 @@ List of content
 <br/>[Scotch]  (https://scotch.io) Developers bringing fire to the people.
 <br/>[thetoolbox]  (http://thetoolbox.cc)  Useful Tools For People Who Build Websites.
 
+### Web Inspiration
+[ONE PAGE LOVE]  (https://onepagelove.com) The ultimate showcase of One Page websites.
+
 ## Business
 
 ### Business Name & Domain Name
