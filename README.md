@@ -19,6 +19,7 @@ List of content
 - Online Payment
 - Crowdfunding
 - Self Improvement
+- Creativity
 - Health
 - Public Information
 - Entertainment
@@ -478,6 +479,9 @@ List of content
 
 ## Self Improvement
 [spreeder]  (http://spreeder.com) Improve reading speed and comprehension.
+
+## Creativity
+[CreativeMornings]  (https://creativemornings.com) CreativeMornings is a breakfast lecture series for the creative community.
 
 
 ## Health
