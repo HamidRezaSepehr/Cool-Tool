@@ -19,6 +19,7 @@ List of content
 - Online Payment
 - Crowdfunding
 - Self Improvement
+- Podcast
 - Creativity
 - Health
 - Public Information
@@ -485,6 +486,8 @@ List of content
 
 ## Self Improvement
 [spreeder]  (http://spreeder.com) Improve reading speed and comprehension.
+
+### [Style Guide Podcast]  (http://styleguides.io/podcast/index.html) A small batch series of interviews on Style Guides, hosted by Anna Debenham and Brad Frost.
 
 ## Creativity
 [CreativeMornings]  (https://creativemornings.com) CreativeMornings is a breakfast lecture series for the creative community.
