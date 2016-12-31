@@ -380,6 +380,10 @@ List of content
 <br/>[Box Notes] (https://blog.box.com/notes)  Never let the best ideas get away.
 <br/>[Elevatr] (http://home.elevatr.com)  A fast, beautiful, and fun way to capture, organize, and share business ideas.
 
+<br/>[BetaList]  (https://betalist.com) BetaList – Discover and get early access to tomorrow's startups
+<br/>[Get Worm]  (https://getworm.com) Help a Startup start-up and let them love you back.
+<br/>[Launching Next]  (http://launchingnext.com) World's most promising startups.
+
 ## Learning
 [Udemy] (https://www.udemy.com)  An online education marketplace with limitless variety.
 <br/>[Udacity ] (https://www.udacity.com)  An online university, "by Silicon Valley".
