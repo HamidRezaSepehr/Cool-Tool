@@ -459,6 +459,8 @@ List of content
 ## Desktop Applications
 
 ## Mobile Applications
+[ELEVATE]  (https://www.elevateapp.com) Your personal brain trainer.
+<br/>[Peak]  (http://www.peak.net) Push your cognitive skills, train harder and use your time better with fun, stimulating games and workouts.
 
 ## Audio
 [Harmony] (http://harmony.jahitjanberk.com)  Listen to natural sounds to sleep and work better.
