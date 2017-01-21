@@ -185,6 +185,7 @@ List of content
 ### CSS Snippet
 [Hamburger Menu]  (https://jonsuh.com/hamburgers) Tasty CSS-animated hamburgers
 <br/>[CSS-Only Hamburger]  (http://callmenick.com/_development/css-hamburger-menu-icons) CSS-Only Hamburger Menu Icons
+<br/>[CSS Media Queries] (http://cssmediaqueries.com/) CSS Media Queries
 
 ### Plugins
 [Adaptive Backgrounds] (http://briangonzalez.github.io/jquery.adaptive-backgrounds.js) A jQuery plugin for extracting dominant colors from images and applying it to its parent.
