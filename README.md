@@ -218,6 +218,7 @@ List of content
 <br/>[XML Sitemaps] (https://www.xml-sitemaps.com)  Sitemap generator that creates XML & HTML variants.
 <br/>[W3C validator] (https://validator.w3.org)  Markup Validation Service.
 <br/>[Shopify E-commerce Report] (https://www.shopify.com/tools)  Get your free Ecommerce report.
+<br/>[BrowserStack] (https://www.browserstack.com) Live, Web-Based Browser Testing.
 
 ### Web Fonts Generator
 [Online Font Converter]  (https://onlinefontconverter.com) converts fonts to/from: .dfont .eot .otf .pfb .pfm .suit .svg .ttf .pfa .bin .pt3 .ps .t42 .cff .afm .ttc, .pdf & .woff.
