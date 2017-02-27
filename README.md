@@ -418,6 +418,7 @@ List of content
 <br/>[Greatist] (http://greatist.com)  Real facts and doable steps for your happiest life.
 <br/>[Free Code Camp] (https://www.freecodecamp.com)  Learn to code and help nonprofits.
 <br/>[Code.org] (https://code.org)  Introductory coding lessons, designed for k-12 students.
+<br/>[Code School] (https://www.codeschool.com)  Learn to code by doing.
 <br/>[Data Camp] (https://www.datacamp.com)  Learn Data Science Online.
 <br/>[CodeCombat] (https://codecombat.com)  Learn programming with a multiplayer live coding strategy game. You're a wizard, and your spells are JavaScript.
 <br/>[Lrn] (http://lrnapp.com)  Learn to code at your convenience.
