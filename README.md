@@ -181,7 +181,8 @@ List of content
 
 ## Web Development Resources
 [Varvy] (https://varvy.com)  Does your site follow the Google webmaster guidelines?
-[Pattern Library] (http://thepatternlibrary.com) The amazing pattern library.
+<br/>[Pattern Library] (http://thepatternlibrary.com) The amazing pattern library.
+<br/>[cssjanus] (https://cssjanus.github.io/) Convert CSS stylesheets between left-to-right and right-to-left.
 
 ### CSS Snippet
 [Hamburger Menu]  (https://jonsuh.com/hamburgers) Tasty CSS-animated hamburgers
