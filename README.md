@@ -261,6 +261,7 @@ List of content
 <br/> [NameRobot]  (https://www.namerobot.com)  Find the name for your project.
 <br/> [Trademarkia]  (http://www.trademarkia.com)  Search Millions of Trademarks.
 <br/> [How to Name your startup]  (http://thisweekinstartups.com/name-startup-wsgr-startup-basics)  How to name your startup?
+<br/> [Names4Brands] (http://www.names4brands.com) Brand, Company & Business Name Generator
 
 <br/> [Namecheap]  (https://www.namecheap.com)  Getting your site online is easier than you think.
 <br/> [Namebox.io]  (https://namebox.io)  Sell and/or Buy your domains.
