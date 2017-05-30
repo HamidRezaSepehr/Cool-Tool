@@ -179,8 +179,9 @@ List of content
 ### Graphic Resource
 [psdexplorer] (http://www.psdexplorer.com)   Free and premium Photoshop templates.
 
-## Web Development
+## Web Development Resources
 [Varvy] (https://varvy.com)  Does your site follow the Google webmaster guidelines?
+[Pattern Library] (http://thepatternlibrary.com) The amazing pattern library.
 
 ### CSS Snippet
 [Hamburger Menu]  (https://jonsuh.com/hamburgers) Tasty CSS-animated hamburgers
