@@ -562,3 +562,6 @@ List of content
 
 <br/>[Dead Man's Switch]  (https://www.deadmansswitch.net) Have emails sent when you die.
 <br/>[WhatIsMyIP]  (https://www.whatismyip.com) Figure out you I.P. address.
+
+## Persian Resources
+[Vajehyab] (https://www.vajehyab.com) Word searching service with more that 1M words from English, Persian, Arabic, Turkish, etc.
