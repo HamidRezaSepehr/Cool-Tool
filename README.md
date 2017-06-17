@@ -44,6 +44,7 @@ List of content
 ### Icon & Font Icon
 <br/>[Fontello] (http://fontello.com) Icon fonts generator.
 <br/>[Flat Icon] (http://www.flaticon.com) The largest database of free icons available in PNG, SVG, EPS, PSD and BASE 64 formats.
+<br/>[Icons8] (https://icons8.com) Free Flat Icons, in any format, size and color in 20 seconds.
 <br/>[Material Design Icons] (https://github.com/google/material-design-icons/releases/tag/1.0.0) 750 Free open-source glyphs by Google.
 <br/>[Font Awesome] (http://fontawesome.io) The iconic font and CSS toolkit.
 <br/>[Glyphsearch] (http://glyphsearch.com) Search for icons from other icon databases.
