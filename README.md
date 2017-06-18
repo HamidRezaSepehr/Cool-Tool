@@ -241,6 +241,7 @@ List of content
 <br/>[Designer News] (https://www.designernews.co) Designer News is a community where design and technology professionals share interesting links and timely events.
 <br/>[Speckyboy]  (https://speckyboy.com) Speckyboy is an online magazine for designers with its focus on sharing helpful resources, exploring new techniques, sharing useful tips, and inspiring you to ...
 <br/>[siteInspire]  (https://www.siteinspire.com) A CSS gallery and showcase of the best web design inspiration, featuring over 2500 websites searchable by type, subject, and style.
+<br/>[bestforwebdesign] (https://www.best4webdesign.com)  Web design resources ordered by popularity.
 
 <br/>[Smashing Magazine]  (https://www.smashingmagazine.com) Smashing Magazine – For Professional Web Designers and Developers
 
