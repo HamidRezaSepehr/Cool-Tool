@@ -560,8 +560,7 @@ List of content
 <br/>[FBDOWN] (http://www.fbdown.net) Facebook Video Downloader.
 
 ### Other 
-[Save From Net] (http://en.savefrom.net)  Download videos from websites (online video downloader).
-<br/>[Google Trends] (https://www.google.com/trends/hottrends/visualize?pn=p1)  See the latest trends, data and visualizations from Google. Find out what's trending near you right now.
+[Google Trends] (https://www.google.com/trends/hottrends/visualize?pn=p1)  See the latest trends, data and visualizations from Google. Find out what's trending near you right now.
 <br/>[change.org] (https://www.change.org)  The world’s platform for c
 <br/>[GIPHY] (http://giphy.com)  GIPHY is your top source for the best & newest GIFs & Animated Stickers online.
 <br/> [Instructables]  (http://www.instructables.com) Instructables is a place that lets you explore, document, and share your DIY creations.
@@ -570,6 +569,11 @@ List of content
 
 <br/>[Dead Man's Switch]  (https://www.deadmansswitch.net) Have emails sent when you die.
 <br/>[WhatIsMyIP]  (https://www.whatismyip.com) Figure out you I.P. address.
+
+
+### Youtbue Online Downloader
+[Save From Net] (http://en.savefrom.net)  Download videos from websites (online video downloader).
+<br/>[KEEPVID] (http://keepvid.com)  Free Download Videos by Pasting Video URL.
 
 ## Persian Resources
 [Vajehyab] (https://www.vajehyab.com) Word searching service with more that 1M words from English, Persian, Arabic, Turkish, etc.
