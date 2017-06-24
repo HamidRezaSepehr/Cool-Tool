@@ -557,7 +557,6 @@ List of content
 <br/>[KICKRESUME]  (https://www.kickresume.com) Be who you are and get your dream job today
 <br/>[Resume-Now] (https://www.resume-now.com) Instantly Create a Resume that Employers Love
 <br/>[Resume Builder]  (http://www.resumebuilder.org) Make you resume and cover letter in minutes
-<br/>[FBDOWN] (http://www.fbdown.net) Facebook Video Downloader.
 
 ### Other 
 [Google Trends] (https://www.google.com/trends/hottrends/visualize?pn=p1)  See the latest trends, data and visualizations from Google. Find out what's trending near you right now.
@@ -574,6 +573,9 @@ List of content
 ### Youtbue Online Downloader
 [Save From Net] (http://en.savefrom.net)  Download videos from websites (online video downloader).
 <br/>[KEEPVID] (http://keepvid.com)  Free Download Videos by Pasting Video URL.
+
+### Facebook Video Downloader
+[FBDOWN] (http://www.fbdown.net) Facebook Video Downloader.
 
 ## Persian Resources
 [Vajehyab] (https://www.vajehyab.com) Word searching service with more that 1M words from English, Persian, Arabic, Turkish, etc.
