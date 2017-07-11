@@ -245,7 +245,7 @@ List of content
 <br/>[Speckyboy]  (https://speckyboy.com) Speckyboy is an online magazine for designers with its focus on sharing helpful resources, exploring new techniques, sharing useful tips, and inspiring you to ...
 <br/>[siteInspire]  (https://www.siteinspire.com) A CSS gallery and showcase of the best web design inspiration, featuring over 2500 websites searchable by type, subject, and style.
 <br/>[bestforwebdesign] (https://www.best4webdesign.com)  Web design resources ordered by popularity.
-
+<br/>[UXPin] (https://www.uxpin.com)  The Full-Stack UX Design Platform.
 <br/>[Smashing Magazine]  (https://www.smashingmagazine.com) Smashing Magazine – For Professional Web Designers and Developers
 
 ### Web Inspiration
