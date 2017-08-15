@@ -197,6 +197,9 @@ List of content
 <br/>[CSS-Only Hamburger]  (http://callmenick.com/_development/css-hamburger-menu-icons) CSS-Only Hamburger Menu Icons
 <br/>[CSS Media Queries] (http://cssmediaqueries.com/) CSS Media Queries
 
+### Javascript
+[jsPerf]  (https://jsperf.com/)  A performance playground for JavaScript developers. Easily create and share test cases and run cross-browser benchmarks to find out which code snippet performs better.
+
 ### Plugins
 [Adaptive Backgrounds] (http://briangonzalez.github.io/jquery.adaptive-backgrounds.js) A jQuery plugin for extracting dominant colors from images and applying it to its parent.
 
