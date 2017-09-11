@@ -199,6 +199,7 @@ List of content
 
 ### Javascript
 [jsPerf]  (https://jsperf.com/)  A performance playground for JavaScript developers. Easily create and share test cases and run cross-browser benchmarks to find out which code snippet performs better.
+<br/>[keycode]  (http://keycode.info/) Get Javascript keyboard codes.
 
 ### Plugins
 [Adaptive Backgrounds] (http://briangonzalez.github.io/jquery.adaptive-backgrounds.js) A jQuery plugin for extracting dominant colors from images and applying it to its parent.
