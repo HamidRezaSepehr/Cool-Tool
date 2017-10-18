@@ -213,6 +213,9 @@ List of content
 [Kissmetrics] (https://www.kissmetrics.com)   Analytics Built to Optimize Marketing.
 <br/>[Optimizely] (https://www.optimizely.com)   Optimizely makes it easy to test and personalize your website and mobile app.
 
+### WordPress Resources
+[WP-SNIPPETS] (http://wp-snippets.com) Browse over 200 wordpress snippets.
+
 ### Analyzer & SEO
 [Open Site Explorer] (https://moz.com/researchtools/ose)   Research backlinks, find link-building opportunities and discover potentially damaging links with Open Site Explorer.
 <br/>[Ahrefs] (https://ahrefs.com)   Track your backlinks, keywords, brand mentions and know what your competitors are doing.
