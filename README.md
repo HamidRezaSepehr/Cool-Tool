@@ -237,6 +237,7 @@ List of content
 <br/>[W3C validator] (https://validator.w3.org)  Markup Validation Service.
 <br/>[Shopify E-commerce Report] (https://www.shopify.com/tools)  Get your free Ecommerce report.
 <br/>[BrowserStack] (https://www.browserstack.com) Live, Web-Based Browser Testing.
+<br/>[mobiReady] (https://ready.mobi) A free tool for developers, designers and marketers to test website performance on mobile devices.
 
 ### Web Fonts Generator
 [Online Font Converter]  (https://onlinefontconverter.com) converts fonts to/from: .dfont .eot .otf .pfb .pfm .suit .svg .ttf .pfa .bin .pt3 .ps .t42 .cff .afm .ttc, .pdf & .woff.
