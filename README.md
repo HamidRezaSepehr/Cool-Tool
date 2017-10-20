@@ -76,6 +76,7 @@ List of content
 <br/>[Tethr] (https://www.invisionapp.com/tethr)  The most beautiful IOS design KIT ever.
 <br/>[Blazrobar]  (http://blazrobar.com)  Download from hundreds of Free PSDs & Free PSD Website Templates & UI Kits. 
 <br/>[graphicex]  (http://graphicex.com)  Free Treasure Graphic Stock.
+<br/>[HeyDesigner] (https://heydesigner.com)  Curated stories for designers and frontend developers.
 
 ### Color Pickers
 [Material Palette] (http://www.materialpalette.com) Choose your favorite colors and get your Material Design palette generated and downloadable.
