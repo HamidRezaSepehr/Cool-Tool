@@ -261,6 +261,7 @@ List of content
 <br/>[bestforwebdesign] (https://www.best4webdesign.com)  Web design resources ordered by popularity.
 <br/>[UXPin] (https://www.uxpin.com)  The Full-Stack UX Design Platform.
 <br/>[Smashing Magazine]  (https://www.smashingmagazine.com) Smashing Magazine – For Professional Web Designers and Developers
+<br/>[TOBIAS AHLIN's Website]  (http://tobiasahlin.com) I design & build digital products.
 
 ### Web Inspiration
 [ONE PAGE LOVE]  (https://onepagelove.com) The ultimate showcase of One Page websites.
