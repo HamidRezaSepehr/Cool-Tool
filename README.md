@@ -361,6 +361,9 @@ List of content
 <br/>[Get Worm]  (https://getworm.com) Help a Startup start-up and let them love you back.
 <br/>[Launching Next]  (http://launchingnext.com) World's most promising startups.
 
+### Tools
+[WeTransfer]  (https://wetransfer.com)  WeTransfer is the simplest way to send your files around the world. Share large files up to 2GB for free.
+
 ### Web Archive
 [Archive.org] (https://archive.org/web/)  Explore more than 279 billion web pages saved over time.
 
