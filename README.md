@@ -219,6 +219,7 @@ List of content
 ### WordPress Resources
 [WP-SNIPPETS] (http://wp-snippets.com) Browse over 200 wordpress snippets.
 [WP FUNCTION ME] (http://www.wpfunction.me) WORDPRESS FUNCTIONS.PHP SNIPPETS.
+[Hasty] (https://www.wp-hasty.com/) Generates WordPress code magically.
 
 ### Analyzer & SEO
 [Open Site Explorer] (https://moz.com/researchtools/ose)   Research backlinks, find link-building opportunities and discover potentially damaging links with Open Site Explorer.
