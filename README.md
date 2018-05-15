@@ -182,6 +182,7 @@ List of content
 <br/>[MockUPhone] (http://mockuphone.com)  One Click to Wrap App Screenshots in Device Mockup!
 <br/>[Facebook Design Resources] (http://facebook.design)  A collection of free resources made by designers at Facebook.
 <br/>[Smartmockups] (http://smartmockups.com)  Create product screenshots with just a few clicks, for free!
+<br/>[iStore.Graphics] (https://free.lstore.graphics/) Exclusive mindblowing freebies for designers and developers.
 
 ### Graphic Resource
 [psdexplorer] (http://www.psdexplorer.com)   Free and premium Photoshop templates.
