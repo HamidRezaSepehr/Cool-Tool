@@ -136,6 +136,7 @@ List of content
 <br/>[Jeshoots] (http://jeshoots.com)  Cool & free photos for You!
 <br/>[Public Domain Pictures] (http://www.publicdomainpictures.net)  Home for Public Domain Pictures. Free for private and commercial use.
 <br/>[The Pattern Library] (http://thepatternlibrary.com)  Patterns for the people, by the people.
+<br/>[Hero Patterns] (http://www.heropatterns.com) A collection of repeatable SVG background patterns for you to use on your web projects.
 <br/>[Magdeleine] (http://magdeleine.co)  A blog that features the best free high-quality stock photographies for your inspiration.
 <br/>[FoodiesFeed] (https://foodiesfeed.com)   Free food pictures in high resolution.
 <br/>[Stokpic] (http://stokpic.com)   Free Stock Photos For commercial Use.
