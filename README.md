@@ -266,6 +266,7 @@ List of content
 <br/>[UXPin] (https://www.uxpin.com)  The Full-Stack UX Design Platform.
 <br/>[Smashing Magazine]  (https://www.smashingmagazine.com) Smashing Magazine – For Professional Web Designers and Developers
 <br/>[TOBIAS AHLIN's Website]  (http://tobiasahlin.com) I design & build digital products.
+<br/>[Refactoring UI] (https://refactoringui.com) Learn how to design awesome UIs by yourself using specific tactics explained from a developer's point-of-view.
 
 ### Web Inspiration
 [ONE PAGE LOVE]  (https://onepagelove.com) The ultimate showcase of One Page websites.
