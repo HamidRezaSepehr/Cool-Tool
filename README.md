@@ -584,6 +584,7 @@ List of content
 <br/>[KICKRESUME]  (https://www.kickresume.com) Be who you are and get your dream job today
 <br/>[Resume-Now] (https://www.resume-now.com) Instantly Create a Resume that Employers Love
 <br/>[Resume Builder]  (http://www.resumebuilder.org) Make you resume and cover letter in minutes
+<br/>[ineedaresume] (http://ineedaresu.me) Creating a resume shouldn't suck
 
 ### Other 
 [Google Trends] (https://www.google.com/trends/hottrends/visualize?pn=p1)  See the latest trends, data and visualizations from Google. Find out what's trending near you right now.
