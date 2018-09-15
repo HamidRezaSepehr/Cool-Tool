@@ -174,6 +174,7 @@ List of content
 <br/>[Social Image Resizer Tool] (http://www.internetmarketingninjas.com/seo-tools/favicon-generator-crop-images)  Create optimized images for social media.
 <br/>[PLACEHOLDER.COM] (https://placeholder.com) A quick and simple image placeholder service.
 <br/>[Insta Editor] (http://insta-editor.com/editor.html) Great online Instagram editor for PC. Our editor has a lot of filters for photo.
+<br/>[Polarr] (https://photoeditor.polarr.co) Polarr makes advanced free online photo editor, also available for iOS, Android, Mac and Windows with professional photo editing tools.
 
 ### Mockup
 [Placeit] (https://placeit.net)  Instant iPhone Mockups & Demo Videos.
