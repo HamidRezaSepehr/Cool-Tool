@@ -173,6 +173,7 @@ List of content
 <br/>[Easel.ly] (http://www.easel.ly)  Create and share visual ideas.
 <br/>[Social Image Resizer Tool] (http://www.internetmarketingninjas.com/seo-tools/favicon-generator-crop-images)  Create optimized images for social media.
 <br/>[PLACEHOLDER.COM] (https://placeholder.com) A quick and simple image placeholder service.
+<br/>[Insta Editor] (http://insta-editor.com/editor.html) Great online Instagram editor for PC. Our editor has a lot of filters for photo.
 
 ### Mockup
 [Placeit] (https://placeit.net)  Instant iPhone Mockups & Demo Videos.
