@@ -249,6 +249,7 @@ List of content
 <br/>[Shopify E-commerce Report] (https://www.shopify.com/tools)  Get your free Ecommerce report.
 <br/>[BrowserStack] (https://www.browserstack.com) Live, Web-Based Browser Testing.
 <br/>[mobiReady] (https://ready.mobi) A free tool for developers, designers and marketers to test website performance on mobile devices.
+<br/>[Cloundinary] (https://webspeedtest.cloudinary.com) Website Speed Test Image Analysis Tool
 
 ### Web Fonts Generator
 [Online Font Converter]  (https://onlinefontconverter.com) converts fonts to/from: .dfont .eot .otf .pfb .pfm .suit .svg .ttf .pfa .bin .pt3 .ps .t42 .cff .afm .ttc, .pdf & .woff.
