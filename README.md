@@ -40,7 +40,7 @@ List of content
 <br/>[DaFont] (http://www.dafont.com) Archive of freely downloadable fonts.
 <br/>[1001 Free Fonts] (http://www.1001freefonts.com) 1001 Free Fonts offers a huge selection of free fonts.
 <br/>[Google Fonts] (https://www.google.com/fonts) Free, open-source fonts optimized for the web.
-<br/>[Beautiful Web Type](https://beautifulwebtype.com) A showcase of the best typefaces from the Google web fonts directory.
+<br/>[Beautiful Web Type] (https://beautifulwebtype.com) A showcase of the best typefaces from the Google web fonts directory.
 <br/>[Font-to-width] (http://font-to-width.com) Fit pieces of text snugly within their containers.
 
 ### Icon & Font Icon
