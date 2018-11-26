@@ -164,6 +164,7 @@ List of content
 ### Illustrations:
 [unDraw] (https://undraw.co/) Open-source illustrations for every project you can imagine and create.
 <br/>[Lukasz Adam Illustrations] (https://lukaszadam.com/illustrations/) A collection of free illustrations under MIT license.
+<br/>[Dealotto] (https://dealotto.com/freebie-category/illustrations/) Free Design Resources
 
 ### Image Optimizer
 [TinyJPG] (https://tinyjpg.com)  Optimize your images with a perfect balance in quality and file size.
