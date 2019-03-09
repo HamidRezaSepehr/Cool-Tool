@@ -211,6 +211,7 @@ List of content
 <br/>[RTLCSS] (http://rtlcss.com) Framework for converting Left-To-Right (LTR) Cascading Style Sheets(CSS) to Right-To-Left (RTL).
 <br/>[wireframe|cc]  (https://wireframe.cc) A Better Wireframing Experience.
 <br/>[devhints.io] (https://devhints.io) A modest collection of cheatsheets.
+<br/>[Internetishard] (https://internetingishard.com) Friendly web development tutorials for complete beginners.
 
 ### CSS Snippet
 [Hamburger Menu]  (https://jonsuh.com/hamburgers) Tasty CSS-animated hamburgers
