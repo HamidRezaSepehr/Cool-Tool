@@ -210,6 +210,7 @@ List of content
 <br/>[cssjanus] (https://cssjanus.github.io) Convert CSS stylesheets between left-to-right and right-to-left.
 <br/>[RTLCSS] (http://rtlcss.com) Framework for converting Left-To-Right (LTR) Cascading Style Sheets(CSS) to Right-To-Left (RTL).
 <br/>[wireframe|cc]  (https://wireframe.cc) A Better Wireframing Experience.
+<br/>[devhints.io] (https://devhints.io) A modest collection of cheatsheets.
 
 ### CSS Snippet
 [Hamburger Menu]  (https://jonsuh.com/hamburgers) Tasty CSS-animated hamburgers
