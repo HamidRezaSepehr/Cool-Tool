@@ -212,6 +212,7 @@ List of content
 <br/>[wireframe|cc]  (https://wireframe.cc) A Better Wireframing Experience.
 <br/>[devhints.io] (https://devhints.io) A modest collection of cheatsheets.
 <br/>[Internetishard] (https://internetingishard.com) Friendly web development tutorials for complete beginners.
+<br/>[Aligator] (https://alligator.io) Front-End Web Development, Chewed Up.
 
 ### CSS Snippet
 [Hamburger Menu]  (https://jonsuh.com/hamburgers) Tasty CSS-animated hamburgers
