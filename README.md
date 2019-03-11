@@ -215,6 +215,7 @@ List of content
 <br/>[devhints.io] (https://devhints.io) A modest collection of cheatsheets.
 <br/>[Internetishard] (https://internetingishard.com) Friendly web development tutorials for complete beginners.
 <br/>[Aligator] (https://alligator.io) Front-End Web Development, Chewed Up.
+<br/>[CollectUI] (http://collectui.com) Daily inspiration collected from daily ui archive and beyond. Hand picked, updating daily.
 
 ### CSS Snippet
 [Hamburger Menu]  (https://jonsuh.com/hamburgers) Tasty CSS-animated hamburgers
