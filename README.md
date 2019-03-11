@@ -168,6 +168,7 @@ List of content
 <br/>[Dealotto] (https://dealotto.com/freebie-category/illustrations/) Free Design Resources
 <br/>[rawpixel] (https://www.rawpixel.com/) Safe to use royalty free images, PSD Mockups and Vectors.
 <br/>[humaaans] (https://www.humaaans.com) Mix-&-match illustrations of people with a design library.
+<br/>[Ouch] (https://icons8.com/ouch) Free illustrations to class up your project.
 
 ### Image Optimizer
 [TinyJPG] (https://tinyjpg.com)  Optimize your images with a perfect balance in quality and file size.
