@@ -216,6 +216,7 @@ List of content
 <br/>[Internetishard] (https://internetingishard.com) Friendly web development tutorials for complete beginners.
 <br/>[Aligator] (https://alligator.io) Front-End Web Development, Chewed Up.
 <br/>[CollectUI] (http://collectui.com) Daily inspiration collected from daily ui archive and beyond. Hand picked, updating daily.
+<br/>[DevDocs] (https://devdocs.io) Fast, offline, and free documentation browser for developers. Search 100+ docs in one web app: HTML, CSS, JavaScript, PHP, Ruby, Python, Go, C, C++…
 
 ### CSS Snippet
 [Hamburger Menu]  (https://jonsuh.com/hamburgers) Tasty CSS-animated hamburgers
