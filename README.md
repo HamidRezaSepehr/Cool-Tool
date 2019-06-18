@@ -594,6 +594,7 @@ List of content
 <br/>[EmojiMadeWithCode] (https://www.madewithcode.com)   Google is working to make sure emoji include a wider range of female professions.
 <br/>[the useless web]  (http://www.theuselessweb.com)  TAKE ME TO ANOTHER USELESS WEBSITE.
 <br/>[FuckingHomePage]  (http://fpage.co)=(http://fuckinghomepage.com) Daily links to enlighten and educate you.
+<br/>[getemoji] (http://getemoji.com) ✂️ Copy and 📋 Paste Emoji 👍 No apps required
 
 ### Music
 [Yousician] (http://get.yousician.com) YOUR PERSONAL MUSIC TEACHER.
