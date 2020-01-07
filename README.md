@@ -218,6 +218,8 @@ List of content
 <br/>[Aligator] (https://alligator.io) Front-End Web Development, Chewed Up.
 <br/>[CollectUI] (http://collectui.com) Daily inspiration collected from daily ui archive and beyond. Hand picked, updating daily.
 <br/>[DevDocs] (https://devdocs.io) Fast, offline, and free documentation browser for developers. Search 100+ docs in one web app: HTML, CSS, JavaScript, PHP, Ruby, Python, Go, C, C++…
+<br/>[Emotivefeels] (https://emotivefeels.com) Emotions guide our lives. Exploring how we feel is a worthy endeavor for anyone hoping to understand themselves or even build a successful brand.
+
 
 ### CSS Snippet
 [Hamburger Menu]  (https://jonsuh.com/hamburgers) Tasty CSS-animated hamburgers
