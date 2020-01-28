@@ -219,6 +219,7 @@ List of content
 <br/>[CollectUI] (http://collectui.com) Daily inspiration collected from daily ui archive and beyond. Hand picked, updating daily.
 <br/>[DevDocs] (https://devdocs.io) Fast, offline, and free documentation browser for developers. Search 100+ docs in one web app: HTML, CSS, JavaScript, PHP, Ruby, Python, Go, C, C++…
 <br/>[Emotivefeels] (https://emotivefeels.com) Emotions guide our lives. Exploring how we feel is a worthy endeavor for anyone hoping to understand themselves or even build a successful brand.
+<br/>[BrowserHacks] (http://browserhacks.com) An extensive list of browser specific CSS and JavaScript hacks from all over the interwebs.
 
 
 ### CSS Snippet
