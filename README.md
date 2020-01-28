@@ -170,6 +170,7 @@ List of content
 <br/>[humaaans] (https://www.humaaans.com) Mix-&-match illustrations of people with a design library.
 <br/>[Ouch] (https://icons8.com/ouch) Free illustrations to class up your project.
 <br/>[ManyPixels] (https://www.manypixels.co/gallery) Illustration Gallery.
+<br/>[MixKit] (https://mixkit.co) COMPLETELY FREE HD VIDEO & ART FOR YOU TO USE, ANYWHERE.
 
 ### Image Optimizer
 [TinyJPG] (https://tinyjpg.com)  Optimize your images with a perfect balance in quality and file size.
