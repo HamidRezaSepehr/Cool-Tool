@@ -171,6 +171,7 @@ List of content
 <br/>[Ouch] (https://icons8.com/ouch) Free illustrations to class up your project.
 <br/>[ManyPixels] (https://www.manypixels.co/gallery) Illustration Gallery.
 <br/>[MixKit] (https://mixkit.co) COMPLETELY FREE HD VIDEO & ART FOR YOU TO USE, ANYWHERE.
+<br/>[OpenDoodle] (https://www.opendoodles.com) A free set of sketchy illustrations.
 
 ### Image Optimizer
 [TinyJPG] (https://tinyjpg.com)  Optimize your images with a perfect balance in quality and file size.
