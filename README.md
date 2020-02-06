@@ -55,6 +55,7 @@ List of content
 <br/>[The Noun Project] (https://thenounproject.com) Thousands of glyph icons from different artists.
 <br/>[Doodle Icon] (https://roundicons.com/doodle-icons-free-set) Free Hand Doodle Icons.
 <br/>[Roundicons] (https://roundicons.com/free-icons) Free flat round icons set.
+<br/>[WorldVectorLogo] (https://worldvectorlogo.com) DOWNLOAD VECTOR LOGOS of brands you love.
 
 
 ### Design Resources
