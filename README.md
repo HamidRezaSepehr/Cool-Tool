@@ -463,6 +463,7 @@ List of content
 <br/>[Elevatr] (http://home.elevatr.com)  A fast, beautiful, and fun way to capture, organize, and share business ideas.
 <br/>[Code4Startup] (https://code4startup.com)  Learn to code by creating Real life Startups.
 <br/>[IFundWomen] (https://ifundwomen.com/) For women who have big ideas, we’re here to help make them happen. 
+<br/>[WomenMake] (https://womenmake.com/) Chat with other women entrepreneurs and help each other out.
 
 
 ## Learning
