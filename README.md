@@ -223,6 +223,7 @@ List of content
 <br/>[DevDocs] (https://devdocs.io) Fast, offline, and free documentation browser for developers. Search 100+ docs in one web app: HTML, CSS, JavaScript, PHP, Ruby, Python, Go, C, C++…
 <br/>[Emotivefeels] (https://emotivefeels.com) Emotions guide our lives. Exploring how we feel is a worthy endeavor for anyone hoping to understand themselves or even build a successful brand.
 <br/>[BrowserHacks] (http://browserhacks.com) An extensive list of browser specific CSS and JavaScript hacks from all over the interwebs.
+<br/>[Webdesign Toolbox] (https://webdesigntoolbox.com/) Webdesign Toolbox is a human-curated collection of tools for web designers, coders, and web strategists.
 
 
 ### CSS Snippet
