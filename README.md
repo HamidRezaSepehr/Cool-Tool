@@ -91,6 +91,7 @@ List of content
 <br/>[Material UI Colors] (https://www.materialui.co/colors) Material ui color palette for Android, Web & iOS.
 <br/>[Colorful Gradients] (http://colorfulgradients.tumblr.com) Gradients automatically created by a computer. 48 times daily. A Will Burn project.
 <br/>[Brand Colors] (http://brandcolors.net) Gradients automatically Colors used by famous brands.
+<br/>[Branition Colors](https://branition.com/colors) Hand-curated collection of color pallets best fitted for branding.
 <br/>[Paletton] (http://paletton.com/#uid=1000u0kllllaFw0g0qFqFg0w0aF) A designer tool for creating color combinations that work together well. 
 <br/>[0 to 255] (http://www.0to255.com) A simple tool that helps web designers find variations of any color. 
 <br/>[Colour Lovers] (http://www.colourlovers.com) Share Your Color Ideas & Inspiration.
