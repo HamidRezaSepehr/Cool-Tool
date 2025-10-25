@@ -616,6 +616,21 @@ List of content
 [Yousician] (http://get.yousician.com) YOUR PERSONAL MUSIC TEACHER.
 <br/>[Pianu] (https://pianu.com) Anyone Can Learn to Play Piano.
 
+## AI
+[Google AI] (https://cloud.google.com/use-cases/free-ai-tools) A suite of free AI tools from Google Cloud, including Translation, Speech-to-Text, and more.
+<br/>[MyEdit] (https://myedit.online/en/photo-editor) An online photo editor with a variety of AI-powered tools for image and audio enhancement.
+<br/>[PhotoDirector] (https://www.cyberlink.com/products/photodirector-photo-editing-software/features_en_US.html) A photo editor with AI-powered features like sky replacement and object removal.
+<br/>[Stable Diffusion] (https://stablediffusionweb.com/) An AI image generator that can create images from text prompts.
+<br/>[ChatGPT] (https://chat.openai.com/) A conversational AI that can generate text, translate languages, and answer your questions.
+<br/>[DALL-E 2] (https://openai.com/dall-e-2/) An AI system that can create realistic images and art from a description in natural language.
+<br/>[GFP-GAN] (https://github.com/TencentARC/GFPGAN) A free AI photo restoration tool that can restore old photos with ease.
+<br/>[JADBio] (https://www.jadbio.com/) An intuitive machine learning platform designed for anyone who wants to dive into the world of machine learning, regardless of coding expertise.
+<br/>[Copy.ai] (https://www.copy.ai/) A free AI copywriting tool that generates unique content with ease.
+<br/>[Lumen5] (https://lumen5.com/) A video creation platform that uses AI to help you create videos from text.
+<br/>[Canva's AI Art Generator] (https://www.canva.com/ai-art-generator/) A tool that lets you turn pure text into beautiful art in seconds.
+<br/>[HubSpot's Free AI Content Writer] (https://www.hubspot.com/products/cms/ai-content-writer) A useful tool for anyone involved in digital marketing or content creation, providing a straightforward solution to generate unique content.
+<br/>[Lalal.ai] (https://www.lalal.ai/) A game-changer for music production and editing and it's one of the best free ai tools.
+
 
 ## Micsellanous
 ### Resume & CV
