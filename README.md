@@ -622,6 +622,7 @@ List of content
 [cvmaker]  (https://cvmkr.com) Create beautiful, professional resumes in minutes, free.
 <br/>[VisualCV]  (https://www.visualcv.com) Create a standout resume in minutes
 <br/>[KICKRESUME]  (https://www.kickresume.com) Be who you are and get your dream job today
+<br/>[ResumeAI]  (https://withresumeai.com/) AI resume builder with free ATS checks (3/day anonymous, 10/day free account) and State of ATS 2026 (738 employers; Workday 37.9%)
 <br/>[Resume-Now] (https://www.resume-now.com) Instantly Create a Resume that Employers Love
 <br/>[Resume Builder]  (http://www.resumebuilder.org) Make you resume and cover letter in minutes
 <br/>[ineedaresume] (http://ineedaresu.me) Creating a resume shouldn't suck
